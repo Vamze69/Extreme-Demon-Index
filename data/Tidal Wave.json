@@ -12,16 +12,19 @@
             "user": "Trick",
             "link": "https://www.youtube.com/watch?v=t0o4wsg36l0",
             "percent": 100,
+            "hz": 360
         },
         {
             "user": "wPopoff",
             "link": "https://www.youtube.com/watch?v=mxR1JQmQyrc",
             "percent": 100,
+            "hz": 360
         },
         {
             "user": "Taiago",
             "link": "https://www.youtube.com/watch?v=2i5D0IIIa7I",
             "percent": 73,
+            "hz": 360
         }
     ]
 }
