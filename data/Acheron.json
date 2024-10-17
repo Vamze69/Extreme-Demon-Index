@@ -1,0 +1,27 @@
+{
+    "id": 73667628,
+    "name": "Acheron",
+    "author": "ryamu",
+    "creators": ["Cersia, EndLevel, Riot, icedcave, LimeTime313, silver, ryamu, Metalface221, GrenadeOfTacos, Goob, AZuLer4, Deadlox, ewop, Komp"],
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=sBKR6aUorzA",
+    "percentToQualify": 70,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Doggie",
+            "link": "https://www.youtube.com/watch?v=4ytMwX9B1Ss",
+            "percent": 100
+        },
+        {
+            "user": "Trick",
+            "link": "https://www.youtube.com/watch?v=ttsK0KYHJb8",
+            "percent": 100
+        },
+        {
+            "user": "Taiago",
+            "link": "https://www.youtube.com/watch?v=2i5D0IIIa7I",
+            "percent": 73
+        }
+    ]
+}
