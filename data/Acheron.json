@@ -9,19 +9,6 @@
     "password": "Free Copy",
     "records": [
         {
-            "user": "Doggie",
-            "link": "https://www.youtube.com/watch?v=4ytMwX9B1Ss",
-            "percent": 100
-        },
-        {
-            "user": "Trick",
-            "link": "https://www.youtube.com/watch?v=ttsK0KYHJb8",
-            "percent": 100
-        },
-        {
-            "user": "Taiago",
-            "link": "https://www.youtube.com/watch?v=2i5D0IIIa7I",
-            "percent": 73
         }
     ]
 }
