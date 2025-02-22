@@ -96,22 +96,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        When submitting your record, please ensure that it complies with the following guidelines: (Submission rules from AREDL)
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        1. Your record must have clicks, COMPLETELY audible throughout the whole level. Not audible sometimes, at the end, or the beginning the whole level. "But what if there was a mistake with the-" We apologize, but we have to be able to hear full audible clicks throughout your video. (Taps, if you're playing on mobile. Same rules apply.)
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        2. Your record must have a cheat indicator on the end screen. If you're playing vanilla GD, or you have a mod menu that does not use a cheat indicator, this is not required. However, you have to put that in your notes, we are not responsible for figuring out which mod menu you used, or if you're playing on vanilla.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        3. If you are using an LDM or a bugfix copy of a level, it must either be approved by list staff, or not make a difference without a doubt. Use your best judgement here, if you are uncertain whether or not your bugfix copy/LDM of a level can be accepted, file a support ticket with the level ID. However, if you're absolutely certain that your copy is fine, you don't need to get it approved in order to get your record accepted. If you're unaware of what an "acceptable" copy would be, go ahead and file a support ticket. (We deny copies that either change gameplay of the level, or remove so much detail that it makes the level easier.)
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        4. Your record must have an uncut end screen. If your video ends before we see the end screen, and your stats are not visible, it is not an acceptable record.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        5. Any levels you beat, you must have raw footage. If the level places in the top 1000 then you must also include split audio tracks, submit along with your original record in a downloadable format such as Google Drive. If it was streamed, a VOD on Twitch or Youtube with chat enabled is also allowed. However, if you have the record on your Pointercrate profile, you may submit that in the additional info instead, and we will accept your record. However, please note that we will not accept records that used Physics Bypass while it was allowed on pointercrate, since Physics Bypass was not ever allowed on The Sillt List.
+                    </p>
+                    <p>
+                    6. This should be obvious, but your record may not be completed with any disallowed mods. This information (of what we allow and don't allow) can be found on our website. This rule also applies to having a red/blue cheat indicator, obvious hacked completions, and bots.
                     </p>
                 </div>
             </div>
