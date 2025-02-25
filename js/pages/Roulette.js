@@ -188,7 +188,7 @@ export default {
             const list = [];
             if (this.useMainList) list.push(...fullListMapped.slice(0, 75));
             if (this.useExtendedList) {
-                list.push(...fullListMapped.slice(75, 10000));
+                list.push(...fullListMapped.slice(150, 10000));
             }
 
             // random 100 levels
