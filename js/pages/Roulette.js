@@ -1,4 +1,4 @@
-import { fetchList } from '../content.js';
+import { fetchList, fetchLevel } from '../content.js';
 import { getThumbnailFromId, getYoutubeIdFromUrl, shuffle } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
@@ -111,7 +111,7 @@ export default {
         toasts: [],
         fileInput: undefined,
     }),
-    mounted() {
+    async mounted() {
         // Create File Input
         this.fileInput = document.createElement('input');
         this.fileInput.type = 'file';
@@ -125,7 +125,6 @@ export default {
         if (!roulette) {
             return;
         }
-
         this.levels = roulette.levels;
         this.progression = roulette.progression;
     },
@@ -169,9 +168,8 @@ export default {
 
             this.loading = true;
 
-            const fullList = await fetchList();
-
-            if (fullList.filter(([_, err]) => err).length > 0) {
+            const tlist = await fetchList();
+            if (!tlist) {
                 this.loading = false;
                 this.showToast(
                     'List is currently broken. Wait until it\'s fixed to start a roulette.',
@@ -179,20 +177,52 @@ export default {
                 return;
             }
 
-            const fullListMapped = fullList.map(([lvl, _], i) => ({
+            const tlistMapped = tlist.map((lvl, i) => ({
                 rank: i + 1,
-                id: lvl.id,
-                name: lvl.name,
-                video: lvl.verification,
+                // id: lvl.id,
+                name: lvl,
+                // video: lvl.verification,
             }));
             const list = [];
-            if (this.useMainList) list.push(...fullListMapped.slice(0, 75));
+            if (this.useMainList) list.push(...tlistMapped.slice(0, 75));
             if (this.useExtendedList) {
-                list.push(...fullListMapped.slice(150, 10000));
+                list.push(...tlistMapped.slice(150, 10000));
             }
 
             // random 100 levels
-            this.levels = shuffle(list).slice(0, 100);
+            const _levels = shuffle(list).slice(0, 100);
+            const fullList = await Promise.all(
+                _levels.map(async (path, rank) => {
+                    const levelResult = await fetch(`../data/${path.name}.json`);
+                    const name = path.name
+                    try {
+                        const level = await levelResult.json();
+                        return [
+                            {
+                                ...level,
+                                name,
+                                records: level.records.sort(
+                                    (a, b) => b.percent - a.percent,
+                                ),
+                            },
+                            null,
+                        ];
+                    } catch {
+                        console.error(`Failed to load level #${rank + 1} ${name}.`);
+                        return [null, path];
+                    }
+                }),
+            );
+
+            const fullListMapped = fullList.map((lvl, i) => ({
+                rank: i + 1,
+                id: lvl[0].id,
+                name: lvl[0].name,
+                video: lvl[0].verification,
+            }));
+
+            this.levels = fullListMapped
+
             this.showRemaining = false;
             this.givenUp = false;
             this.progression = [];
@@ -221,7 +251,7 @@ export default {
                 this.showToast('Invalid percentage.');
                 return;
             }
-
+            
             this.progression.push(this.percentage);
             this.percentage = undefined;
 

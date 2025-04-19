@@ -1,7 +1,7 @@
 import { store } from "../main.js";
 import { embed } from "../util.js";
 import { score } from "../score.js";
-import { fetchEditors, fetchList } from "../content.js";
+import { fetchEditors, fetchList, fetchLevel } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
@@ -23,13 +23,13 @@ export default {
         <main v-else class="page-list">
             <div class="list-container">
                 <table class="list" v-if="list">
-                    <tr v-for="([level, err], i) in list">
+                    <tr v-for="(level, i) in demonList">
                         <td class="rank">
                             <p class="type-label-lg">#{{ i + 1 }}</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
-                            <button @click="selected = i">
-                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                            <button @click="fetchLvl(i); selected = i">
+                                <span class="type-label-lg">{{ \`\${level}\` || \`Error\` }}</span>
                             </button>
                         </td>
                     </tr>
@@ -121,17 +121,22 @@ export default {
         </main>
     `,
     data: () => ({
-        list: [],
+        demonList: [],
         editors: [],
         loading: true,
         selected: 0,
         errors: [],
         roleIconMap,
-        store
+        store,
+        isLoading: false,
+        hasLoaded: false
     }),
     computed: {
         level() {
-            return this.list[this.selected][0];
+            if (!this.hasLoaded) {
+                return [];
+            }
+            return this.listLevel[0]
         },
         video() {
             if (!this.level.showcase) {
@@ -144,25 +149,22 @@ export default {
                     : this.level.verification
             );
         },
+        list() {
+            return this.demonList
+        },
     },
     async mounted() {
         // Hide loading spinner
-        this.list = await fetchList();
+        this.demonList = await fetchList();
         this.editors = await fetchEditors();
-
+        this.listLevel = await fetchLevel(this.list[this.selected])
+        this.hasLoaded = true;
         // Error handling
         if (!this.list) {
             this.errors = [
                 "Failed to load list. Retry in a few minutes or notify list staff.",
             ];
         } else {
-            this.errors.push(
-                ...this.list
-                    .filter(([_, err]) => err)
-                    .map(([_, err]) => {
-                        return `Failed to load level. (${err}.json)`;
-                    })
-            );
             if (!this.editors) {
                 this.errors.push("Failed to load list editors.");
             }
@@ -173,5 +175,25 @@ export default {
     methods: {
         embed,
         score,
+        async fetchLvl(i)
+        {
+            if (this.isLoading) {
+                return;
+            }
+            this.hasLoaded = false
+            this.isLoading = true;
+            try {
+                console.log(i)
+                this.listLevel = await fetchLevel(this.demonList[i])
+                if(!this.level) {
+                    this.errors = [
+                        "Failed to load level"
+                    ]
+                }
+                this.hasLoaded = true;
+            } finally {
+                this.isLoading = false;
+            }
+        },
     },
 };
