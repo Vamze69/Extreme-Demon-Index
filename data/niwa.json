@@ -9,6 +9,16 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Vamze",
+            "link": "https://www.youtube.com/watch?v=LBG7Ezc3twk",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "FilipProThings",
+            "link": "https://www.youtube.com/watch?v=Z75qNw6mG4M",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

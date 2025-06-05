@@ -9,6 +9,10 @@
     "password": "No Copy",
     "records": [
         {
+            "user": "FilipProThings",
+            "link": "https://www.youtube.com/watch?v=1UnE6kA4HYw",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
