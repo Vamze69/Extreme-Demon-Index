@@ -1,7 +1,7 @@
 import { store } from "../main.js";
 import { embed } from "../util.js";
 import { score } from "../score.js";
-import { fetchEditors, fetchList, fetchLevel } from "../content.js";
+import { fetchEditors, fetchList, fetchLevel, fetchRecords } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
@@ -53,7 +53,7 @@ export default {
                     </ul>
                     <h2>Records</h2>
                     <table class="records">
-                        <tr v-for="record in level.records" class="record">
+                        <tr v-for="record in recordList[level.name].records" class="record">
                             <td class="percent">
                                 <p>{{ record.percent }}%</p>
                             </td>
@@ -119,6 +119,7 @@ export default {
     `,
     data: () => ({
         demonList: [],
+        recordList: {},
         editors: [],
         loading: true,
         selected: 0,
@@ -149,10 +150,14 @@ export default {
         list() {
             return this.demonList
         },
+        records() {
+            return this.recordList
+        }
     },
     async mounted() {
         // Hide loading spinner
         this.demonList = await fetchList();
+        this.recordList = await fetchRecords();
         this.editors = await fetchEditors();
         this.listLevel = await fetchLevel(this.list[this.selected])
         this.hasLoaded = true;

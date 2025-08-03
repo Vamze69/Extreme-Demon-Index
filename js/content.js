@@ -68,64 +68,88 @@ export async function fetchEditors() {
         return null;
     }
 }
+export async function fetchRecords() {
+    // const levelList = await fetchList();
 
+    const recordRes = await fetch(`${dir}/_records.json`);
+    try {
+        const list =  await recordRes.json();
+
+        // levelList.forEach((level) => {
+        //     if(!list[level]) list[level] = []
+        // })
+        return list;
+    } catch {
+        console.error(`Failed to load records.`);
+    }
+}
 export async function fetchLeaderboard() {
+    const recordList = await fetchRecords();
     const list = await fetchList();
 
     const scoreMap = {};
     const errs = [];
-    list.forEach(([level, err], rank) => {
-        if (err) {
-            errs.push(err);
-            return;
+    list.forEach((level, rank) => {
+        if(!recordList[level]) recordList[level] = {
+            verifier: {
+                verifier: "!!MISSING LEVEL INFO!!"
+            },
+            records: []
+
         }
-
-        // Verification
-        const verifier = Object.keys(scoreMap).find(
-            (u) => u.toLowerCase() === level.verifier.toLowerCase(),
-        ) || level.verifier;
-        scoreMap[verifier] ??= {
-            verified: [],
-            completed: [],
-            progressed: [],
-        };
-        const { verified } = scoreMap[verifier];
-        verified.push({
-            rank: rank + 1,
-            level: level.name,
-            score: score(rank + 1, 100, level.percentToQualify),
-            link: level.verification,
-        });
-
-        // Records
-        level.records.forEach((record) => {
-            const user = Object.keys(scoreMap).find(
-                (u) => u.toLowerCase() === record.user.toLowerCase(),
-            ) || record.user;
-            scoreMap[user] ??= {
+            // if (err) {
+            //     errs.push(err);
+            //     return;
+            // }
+            // Verification
+            const verifier = Object.keys(scoreMap).find(
+                (u) => u.toLowerCase() === recordList[level].verifier.verifier.toLowerCase(),
+            ) || recordList[level].verifier.verifier;
+            scoreMap[verifier] ??= {
                 verified: [],
                 completed: [],
                 progressed: [],
             };
-            const { completed, progressed } = scoreMap[user];
-            if (record.percent === 100) {
-                completed.push({
-                    rank: rank + 1,
-                    level: level.name,
-                    score: score(rank + 1, 100, level.percentToQualify),
-                    link: record.link,
-                });
-                return;
-            }
 
-            progressed.push({
+            const { verified } = scoreMap[verifier];
+            verified.push({
                 rank: rank + 1,
-                level: level.name,
-                percent: record.percent,
-                score: score(rank + 1, record.percent, level.percentToQualify),
-                link: record.link,
+                level: level,
+                score: score(rank + 1, 100, recordList[level].percentToQualify),
+                link: recordList[level].verifier.verification,
             });
-        });
+            // Records
+            recordList[level].records.forEach((record) => {
+                if(record) {
+                    const user = Object.keys(scoreMap).find(
+                        (u) => u.toLowerCase() === record.user.toLowerCase(),
+                    ) || record.user;
+                    scoreMap[user] ??= {
+                        verified: [],
+                        completed: [],
+                        progressed: [],
+                    };
+                    const { completed, progressed } = scoreMap[user];
+                    if (record.percent === 100) {
+                        completed.push({
+                            rank: rank + 1,
+                            level: level,
+                            score: score(rank + 1, 100, recordList[level].percentToQualify),
+                            link: record.link,
+                        });
+                        return;
+                    }
+
+                    progressed.push({
+                        rank: rank + 1,
+                        level: level.name,
+                        percent: record.percent,
+                        score: score(rank + 1, record.percent, recordList[level].percentToQualify),
+                        link: record.link,
+                    });
+                }
+            });
+        
     });
 
     // Wrap in extra Object containing the user and total score
