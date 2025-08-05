@@ -21031,5 +21031,69 @@
       "verification": "https://www.youtube.com/watch?v=qviQqc6hD7Q"
     },
     "percentToQualify": 66
+  },
+  "KATAMARI": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tueml",
+      "verification": "https://www.youtube.com/watch?v=QHA0lk_sRmo"
+    },
+    "percentToQualify": 66
+  },
+  "LIAM WAVE": {
+    "records": [],
+    "verifier": {
+      "verifier": "lhsui",
+      "verification": "https://www.youtube.com/watch?v=Vjsyaxqmyy8"
+    },
+    "percentToQualify": 66
+  },
+  "Rewip": {
+    "records": [],
+    "verifier": {
+      "verifier": "BonusKey",
+      "verification": "https://www.youtube.com/watch?v=3-ByW0DzgTU"
+    },
+    "percentToQualify": 66
+  },
+  "shattered lens": {
+    "records": [],
+    "verifier": {
+      "verifier": "SoggyCat",
+      "verification": "https://www.youtube.com/watch?v=MdxMaW5bhIs"
+    },
+    "percentToQualify": 66
+  },
+  "RENAISSANCE": {
+    "records": [],
+    "verifier": {
+      "verifier": "FloofiWan",
+      "verification": "https://www.youtube.com/watch?v=G5hwvAgxCgs"
+    },
+    "percentToQualify": 66
+  },
+  "vista": {
+    "records": [],
+    "verifier": {
+      "verifier": "Shouko652",
+      "verification": "https://www.youtube.com/watch?v=Y7h133zLzyg"
+    },
+    "percentToQualify": 66
+  },
+  "Creation": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sneze",
+      "verification": "https://www.youtube.com/watch?v=x7OgTKNQmKQ"
+    },
+    "percentToQualify": 66
+  },
+  "Color Beam": {
+    "records": [],
+    "verifier": {
+      "verifier": "Bizaare",
+      "verification": "https://www.youtube.com/watch?v=n7dk8R4eE20"
+    },
+    "percentToQualify": 66
   }
 }
