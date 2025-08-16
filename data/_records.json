@@ -459,7 +459,14 @@
       "verifier": "seels55",
       "verification": "https://www.youtube.com/watch?v=Q__EnRojGt4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "ROZE",
+        "link": "https://www.youtube.com/watch?v=41JrFdenKEk",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 65
   },
   "Unnerfed Slaughterhouse": {
@@ -651,7 +658,14 @@
       "verifier": "Diamond",
       "verification": "https://www.youtube.com/watch?v=ofG2mJi9kEA"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "bop",
+        "link": "https://www.youtube.com/watch?v=kYAtvJ0fGEk",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 69
   },
   "Exens Limit": {
@@ -680,7 +694,7 @@
   },
   "Triplusion": {
     "verifier": {
-      "verifier": "seels",
+      "verifier": "seels55",
       "verification": "https://www.youtube.com/watch?v=jQlXNrJvlvw&t=74s"
     },
     "records": [],
@@ -1216,7 +1230,7 @@
   },
   "riverlasting": {
     "verifier": {
-      "verifier": "seels",
+      "verifier": "seels55",
       "verification": "https://www.youtube.com/watch?v=pwMc6S7mUF8&t=347s"
     },
     "records": [],
@@ -1587,7 +1601,14 @@
       "verifier": "Diamond",
       "verification": "https://www.youtube.com/watch?v=a1sQxQqU6EM"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "bop",
+        "link": "https://www.youtube.com/watch?v=NqpuXdDc6jM",
+        "percent": 100,
+        "hz": 1000
+      }
+    ],
     "percentToQualify": 83
   },
   "Fracture (foopoa)": {
