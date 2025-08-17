@@ -67,6 +67,12 @@
         "link": "https://www.youtube.com/watch?v=aWyNtYYpjy8",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "wPopoff",
+        "link": "https://www.youtube.com/watch?v=-ynbIhRflw8",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "verifier": {
@@ -8327,7 +8333,14 @@
       "verifier": "combi",
       "verification": "https://www.youtube.com/watch?v=laok-nI3-t8"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/iuB8CdPg6KI?si=ANhywMtmyW6zJtMt",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "MINUSsog": {
@@ -9495,7 +9508,14 @@
       "verifier": "Gabs",
       "verification": "https://www.youtube.com/watch?v=ZcQ5NrKmpT0"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/2KtndgFmQYQ?si=-ia2WU9Ow4mX9K2L",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "carnivorez": {
@@ -10615,7 +10635,14 @@
       "verifier": "Ozzy",
       "verification": "https://www.youtube.com/watch?v=p877rT5gxNA"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/nIQ-ZFwXpmc?si=_xRILERvv-ksWQbC",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Aftermath (ItzBedlet)": {
@@ -12162,7 +12189,14 @@
       "verifier": "kvvv",
       "verification": "https://www.youtube.com/watch?v=vqhitBHhsTo"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/de7aUeG8gIY?si=J3vkQ5dwl0IPDjkg",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Vortex of Time": {
@@ -12346,7 +12380,14 @@
       "verifier": "Zeronium",
       "verification": "https://www.youtube.com/watch?v=AsqOXZMvqnc"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/lN0fSbIegFE?si=C1vJhZTfcL-bw_-N",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "No Time": {
@@ -12942,6 +12983,12 @@
         "link": "https://www.youtube.com/watch?v=ZPhMgD4f7EY",
         "percent": 100,
         "hz": 60
+      },
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/7lFBr6uFknA?si=jxUcEgBLzcFhYMOJ",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -13066,6 +13113,12 @@
         "link": "https://www.youtube.com/watch?v=4vn7RpISSf4",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/px8AjURiCpY?si=vDR_V33WNdtUszOh",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -14138,7 +14191,14 @@
       "verifier": "DaMeister",
       "verification": "https://www.youtube.com/watch?v=iLCcJyh5c5k"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/LGge1xaGZ70?si=G6aWk5PXX-zy30Va",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Invisible Zirokabi": {
@@ -15271,7 +15331,14 @@
       "verifier": "Vismuth",
       "verification": "https://www.youtube.com/watch?v=FFAHbgkNH10"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/YjZn-N-GP2s?si=wRktw2IFN7tp6zSs",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Experiment (Blathers) (Solo)": {
@@ -15526,7 +15593,14 @@
       "verifier": "meowdead",
       "verification": "https://www.youtube.com/watch?v=FX51YdgiHwg"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/Ou4nJ9HmjIM?si=E-maI6JXM0NjTOEO",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Twisted Tranquility": {
@@ -16078,7 +16152,14 @@
       "verifier": "Toughfey",
       "verification": "https://www.youtube.com/watch?v=XdHdazbChbs"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/ZN0JzzcrLA0?si=0LtYxKRxCuDOsMbX",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Daydream": {
@@ -16086,7 +16167,14 @@
       "verifier": "Yendis",
       "verification": "https://www.youtube.com/watch?v=5HXK3TFG1H4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/6PUsuISNkHI?si=H-r6oA7lzyiYT8Zg",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Swirling Storm": {
@@ -16534,7 +16622,14 @@
       "verifier": "Technical",
       "verification": "https://www.youtube.com/watch?v=V3q6QA5lzG4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/q1szP8W3GiM?si=1npY6Sb9UIdpOJlU",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Obsidian": {
@@ -16694,7 +16789,14 @@
       "verifier": "cxn",
       "verification": "https://www.youtube.com/watch?v=YQc5YhhFUoM"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/c2PYO99cTdA?si=42GoDAJOnpfhoZwf",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Draco Meteor": {
@@ -17578,7 +17680,14 @@
       "verifier": "Luqualizer",
       "verification": "https://www.youtube.com/watch?v=ND--Ai4XVfM"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/zM7qAq1CZfY?si=2-VYFNONTcr6Zn97",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "ROTTING BODY": {
@@ -17610,7 +17719,14 @@
       "verifier": "Luqualizer",
       "verification": "https://www.youtube.com/watch?v=YZYq1dQrQjY"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/nuRW3i9eIA8?si=bS5dUv7TLkzJXQoL",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Master Duel (Solo)": {
@@ -17865,7 +17981,14 @@
       "verifier": "Riot",
       "verification": "https://www.youtube.com/watch?v=WsxDUMLRqN4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/r3tpoe3lb9o?si=KtWB_fluXoTjZ_zF",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Element 33": {
@@ -18089,7 +18212,14 @@
       "verifier": "Diamond",
       "verification": "https://www.youtube.com/watch?v=Ucfuoj0nVaU"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/vSAQo0WLeA0?si=vO_-6NobIPxSbPnr",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Phixel Thingy": {
@@ -18161,7 +18291,14 @@
       "verifier": "Berke423",
       "verification": "https://www.youtube.com/watch?v=jJIcx44_4-8"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/tQiQgbUDk4o?si=lntYEXA9bPFlx7qM",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Reanimate": {
@@ -18192,7 +18329,14 @@
       "verifier": "xander",
       "verification": "https://www.youtube.com/watch?v=-q0iBUZti9s"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/MnsIy5vhxHo?si=SDmUZiaHh3VAXaWK",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Miscellaneous Memory": {
@@ -18296,7 +18440,14 @@
       "verifier": "BlazeRol",
       "verification": "https://www.youtube.com/watch?v=NXV3nDr1z2M"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/iq1P1oiIZ18?si=eL_7qDZrpojzp6hj",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Nickelback Circles 3": {
@@ -18327,7 +18478,14 @@
       "verifier": "Frunk",
       "verification": "https://www.youtube.com/watch?v=ojimlMhuL_A"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/1DnYibi8iFk?si=nyt-esxZH7w9d100",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Red Moon": {
@@ -18343,7 +18501,14 @@
       "verifier": "TrusTa",
       "verification": "https://www.youtube.com/watch?v=RHOCE37dP2A"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/HHwZh9WAhG4?si=BFpYBpsdE7Ns4hxO",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "DREAMS TAKE OVER": {
@@ -18483,6 +18648,12 @@
         "link": "https://www.youtube.com/watch?v=l90zMmAbaXs",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/aef8p3-oUys?si=tyTa9H3bp8w8hV-L",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -18500,7 +18671,14 @@
       "verifier": "blazer2",
       "verification": "https://www.youtube.com/watch?v=JL5Yx3u9eMw"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/gjSlAYKMsVo?si=yQIsbNhUjybFrPWd",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Terrifying Magmatism": {
@@ -18675,7 +18853,20 @@
       "verifier": "combi",
       "verification": "https://www.youtube.com/watch?v=RmrPEJ7Z6lY"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Olivia ♡",
+        "link": "https://youtu.be/y88ZKTKlLSI?si=Btb1Q-lQKhdKUjee",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/cLMOD4E6vWU?si=H5EnRtcbSPfJiJEm",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Falsch": {
@@ -18715,7 +18906,14 @@
       "verifier": "Jenkins",
       "verification": "https://www.youtube.com/watch?v=RoMt6_CVfnE"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/8E-HfAvEGUY?si=t1mi9G6A0zKr3qkT",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "ICON19": {
@@ -18905,6 +19103,12 @@
         "link": "https://www.youtube.com/watch?v=VuVBeZrpjT4",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/PvYdO_tItRg?si=E06MSue7t0eRVYFm",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -18978,7 +19182,14 @@
       "verifier": "WormFodder",
       "verification": "https://www.youtube.com/watch?v=ZS7h8Kg8MEI&pp=ygUHZG9vcCBnZA%3D%3D"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/1xK0i1_Xqb0?si=cdtMnQBMuoIV554c",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "somebawdy": {
@@ -19042,7 +19253,14 @@
       "verifier": "Lcultist",
       "verification": "https://www.youtube.com/watch?v=fDY3Z7VEUng"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/zDIVMzG_FWA?si=n89i96xkiihhaGEA",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "boson": {
@@ -19114,7 +19332,14 @@
       "verifier": "Nexus",
       "verification": "https://www.youtube.com/watch?v=mAfwv6zvxCU"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/uDsyTl6z3N4?si=7cyQy9mL_wdIwuxB",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Helios": {
@@ -19191,7 +19416,14 @@
       "verifier": "robotchief",
       "verification": "https://www.youtube.com/watch?v=7cSsPB6sdGE"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/2cdWqwrrNHk?si=x6h06BxcBzCT2c2y",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Barrel Fortress": {
@@ -19619,6 +19851,12 @@
         "link": "https://www.youtube.com/watch?v=YT2tee7dyXY",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/2kLhxWhxR1w?si=b3fP40QhwdnjUYXi",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -19692,7 +19930,14 @@
       "verifier": "Sillow",
       "verification": "https://www.youtube.com/watch?v=ntwfv59VQYI"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/ZLPqBWe9aXw?si=VD8keT-KI667mX3k",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "The Lost Existence": {
@@ -20146,6 +20391,12 @@
         "link": "https://www.youtube.com/watch?v=5pc8pY5ihHI",
         "percent": 100,
         "hz": 60
+      },
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/Qmb1C2mVuDU?si=2ZMcE4urDAsltNyM",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -20171,7 +20422,14 @@
       "verifier": "thazm",
       "verification": "https://www.youtube.com/watch?v=2WW6heHj2gE"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/Al-s6YEaq-Q?si=57JJEpTC8Pk_x2o1",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Flappy Dynamix II": {
@@ -20251,7 +20509,14 @@
       "verifier": "Zeronium",
       "verification": "https://www.youtube.com/watch?v=63cb6Rm3XJU"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/JLslXNQf8O0?si=5GllFd392mhj9qn-",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Stop Breathing": {
@@ -20329,6 +20594,12 @@
         "link": "https://www.youtube.com/watch?v=kd3ygoAP7KA",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/l1WbxtHOPc4?si=87dELpQMm7QX2KVD",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -20346,7 +20617,14 @@
       "verifier": "We4therMan",
       "verification": "https://www.youtube.com/watch?v=LiJaBftzL2k"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/08ZCZkJoE3U?si=MSt8N78taCEmNxMT",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Light It Up (arwooly)": {
@@ -20396,6 +20674,12 @@
         "link": "https://www.youtube.com/watch?v=x5WVHQBQz70",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/n-_4SGAmWKs?si=JDPL3J5kgwB4-ofi",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -20461,7 +20745,14 @@
       "verifier": "Kapinapi",
       "verification": "https://www.youtube.com/watch?v=F_UXQyejl_A"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/dtyWcbTt1Rw?si=zpFH0EBbkRBlMJXs",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Prismatic": {
@@ -20621,7 +20912,14 @@
       "verifier": "Espii",
       "verification": "https://www.youtube.com/watch?v=mvsM4i0TGYQ"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/i3Ti-marVi0?si=Y0Cwg2IhATgU0hrk",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Silent Jonstep": {
@@ -21078,7 +21376,14 @@
       "verifier": "Extravagon",
       "verification": "https://www.youtube.com/watch?v=_W9xA5lqmLs"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/CIZpxqdXxr0?si=A4Z2w7mfUMggDD3R",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Iris": {
@@ -21116,6 +21421,12 @@
         "link": "https://youtu.be/dBo55ztYODo?si=m5ZjV-746c-dhgEs",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/gpQoM9FqOpA?si=d7SGaCIsL1YbpRL-",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -21957,94 +22268,6 @@
     "verifier": {
       "verifier": "sneze",
       "verification": "https://www.youtube.com/watch?v=FPgxKVOzCLg"
-    },
-    "percentToQualify": 66
-  },
-  "MIHA DIFFICULT": {
-    "records": [],
-    "verifier": {
-      "verifier": "SKOE",
-      "verification": "https://www.youtube.com/watch?v=cLTTnC6Xkng"
-    },
-    "percentToQualify": 66
-  },
-  "Wind Tunnel": {
-    "records": [],
-    "verifier": {
-      "verifier": "xarve",
-      "verification": "https://www.youtube.com/watch?v=bAUzCtRiKAI"
-    },
-    "percentToQualify": 66
-  },
-  "Low Bass": {
-    "records": [],
-    "verifier": {
-      "verifier": "GhostFire",
-      "verification": "https://www.youtube.com/watch?v=YE0JpThZwu4"
-    },
-    "percentToQualify": 66
-  },
-  "Asian Fusion": {
-    "records": [],
-    "verifier": {
-      "verifier": "Tankalty",
-      "verification": "https://www.youtube.com/watch?v=h2GkeWo8-D4"
-    },
-    "percentToQualify": 66
-  },
-  "is dead": {
-    "records": [],
-    "verifier": {
-      "verifier": "Jeyk",
-      "verification": "https://www.youtube.com/watch?v=hQJJXdKLQW8"
-    },
-    "percentToQualify": 66
-  },
-  "Crystallic Haze": {
-    "records": [],
-    "verifier": {
-      "verifier": "zgod",
-      "verification": "https://www.youtube.com/watch?v=vgJPgMHXJPg"
-    },
-    "percentToQualify": 66
-  },
-  "72 Hours": {
-    "records": [],
-    "verifier": {
-      "verifier": "MyntiFresh",
-      "verification": "https://www.youtube.com/watch?v=emrjPtJDJwo"
-    },
-    "percentToQualify": 66
-  },
-  "ytrax": {
-    "records": [],
-    "verifier": {
-      "verifier": "Lerik",
-      "verification": "https://www.youtube.com/watch?v=75M9IG0XdEs"
-    },
-    "percentToQualify": 66
-  },
-  "Race Against RobTop": {
-    "records": [],
-    "verifier": {
-      "verifier": "aidancode",
-      "verification": "https://www.youtube.com/watch?v=XswD8HoRDts"
-    },
-    "percentToQualify": 66
-  },
-  "DEVOID WORLD": {
-    "records": [],
-    "verifier": {
-      "verifier": "Mustachioisbae",
-      "verification": "https://www.youtube.com/watch?v=Gjtcd2d2ceM"
-    },
-    "percentToQualify": 66
-  },
-  "Night of Nights": {
-    "records": [],
-    "verifier": {
-      "verifier": "ThePuffGD",
-      "verification": "https://www.youtube.com/watch?v=GXUWDPpUFoA"
     },
     "percentToQualify": 66
   }
