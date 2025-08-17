@@ -5312,7 +5312,14 @@
       "verifier": "Zylenox",
       "verification": "https://www.youtube.com/watch?v=sRCQ1JjhBq4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "onellyn",
+        "link": "youtu.be/ZVKYVEUnJvo?si=ZdwDpO_Kafo9dj-H",
+        "percent": 100,
+        "hz": 144
+      }
+    ],
     "percentToQualify": 68
   },
   "In Abyss": {
@@ -11508,6 +11515,12 @@
         "link": "https://www.youtube.com/watch?v=lZXraAC0w18",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "onellyn",
+        "link": "https://www.youtube.com/watch?v=Zg7vfDNWcAU",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -18299,7 +18312,14 @@
       "verifier": "> x <",
       "verification": "https://www.youtube.com/watch?v=VSw1c3L8szo"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "onellyn",
+        "link": "https://www.youtube.com/watch?v=93725MN2mCc",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Party Rock Anthem": {
@@ -20892,6 +20912,12 @@
         "link": "https://www.youtube.com/watch?v=fOYr-nd6MFA",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "onellyn",
+        "link": "https://www.youtube.com/watch?v=Pfc0Q43iZyw",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21931,6 +21957,38 @@
     "verifier": {
       "verifier": "sneze",
       "verification": "https://www.youtube.com/watch?v=FPgxKVOzCLg"
+    },
+    "percentToQualify": 66
+  },
+  "MIHA DIFFICULT": {
+    "records": [],
+    "verifier": {
+      "verifier": "SKOE",
+      "verification": "https://www.youtube.com/watch?v=cLTTnC6Xkng"
+    },
+    "percentToQualify": 66
+  },
+  "Wind Tunnel": {
+    "records": [],
+    "verifier": {
+      "verifier": "xarve",
+      "verification": "https://www.youtube.com/watch?v=bAUzCtRiKAI"
+    },
+    "percentToQualify": 66
+  },
+  "Low Bass": {
+    "records": [],
+    "verifier": {
+      "verifier": "GhostFire",
+      "verification": "https://www.youtube.com/watch?v=YE0JpThZwu4"
+    },
+    "percentToQualify": 66
+  },
+  "Asian Fusion": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tankalty",
+      "verification": "https://www.youtube.com/watch?v=h2GkeWo8-D4"
     },
     "percentToQualify": 66
   }
