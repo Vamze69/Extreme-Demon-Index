@@ -7536,7 +7536,7 @@
   },
   "Overclock": {
     "verifier": {
-      "verifier": "XavT",
+      "verifier": "Xavereth",
       "verification": "https://www.youtube.com/watch?v=AYy3WEe5bLo"
     },
     "records": [],
@@ -9015,7 +9015,7 @@
   },
   "Phantasmagoria (XavT)": {
     "verifier": {
-      "verifier": "XavT",
+      "verifier": "Xavereth",
       "verification": "https://www.youtube.com/watch?v=zrb6sOejdDA"
     },
     "records": [],
@@ -9239,7 +9239,7 @@
   },
   "PURGE": {
     "verifier": {
-      "verifier": "XavT",
+      "verifier": "Xavereth",
       "verification": "https://www.youtube.com/watch?v=4xOC4Q0wtIw"
     },
     "records": [],
@@ -13555,7 +13555,7 @@
   },
   "BudBath": {
     "verifier": {
-      "verifier": "jupibun",
+      "verifier": "jupi",
       "verification": "https://www.youtube.com/watch?v=j2lFTEjm4qk"
     },
     "records": [],
@@ -15883,7 +15883,7 @@
   },
   "yoshi circles": {
     "verifier": {
-      "verifier": "jupibun",
+      "verifier": "jupi",
       "verification": "https://www.youtube.com/watch?v=l6M_c9W2xrQ"
     },
     "records": [],
@@ -22530,6 +22530,126 @@
     "verifier": {
       "verifier": "Wadur",
       "verification": "https://www.youtube.com/watch?v=zH1ZNLOEFLs"
+    },
+    "percentToQualify": 66
+  },
+  "Apotheosis": {
+    "records": [],
+    "verifier": {
+      "verifier": "Xavereth",
+      "verification": "https://www.youtube.com/watch?v=X261xjwc3HQ"
+    },
+    "percentToQualify": 66
+  },
+  "SXO": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lemon",
+      "verification": "https://www.youtube.com/watch?v=h5X52lGw_DI"
+    },
+    "percentToQualify": 66
+  },
+  "Geometrical Dominato": {
+    "records": [],
+    "verifier": {
+      "verifier": "Rhys",
+      "verification": "https://www.youtube.com/watch?v=ustUmewL8m0"
+    },
+    "percentToQualify": 66
+  },
+  "Glacial Edge": {
+    "records": [],
+    "verifier": {
+      "verifier": "Enzeux",
+      "verification": "https://www.youtube.com/watch?v=yFG2HOp_nb4"
+    },
+    "percentToQualify": 66
+  },
+  "The Chaotic World": {
+    "records": [],
+    "verifier": {
+      "verifier": "ButterFish",
+      "verification": "https://www.youtube.com/watch?v=lFyuIV0SMyQ"
+    },
+    "percentToQualify": 66
+  },
+  "kaiden": {
+    "records": [],
+    "verifier": {
+      "verifier": "FigTheCat",
+      "verification": "https://www.youtube.com/watch?v=uHgxxB_xs5U"
+    },
+    "percentToQualify": 66
+  },
+  "Midnight March": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zivy",
+      "verification": "https://www.youtube.com/watch?v=IK7UbWw5zxo"
+    },
+    "percentToQualify": 66
+  },
+  "SONIC FART": {
+    "records": [],
+    "verifier": {
+      "verifier": "jupi",
+      "verification": "https://www.youtube.com/watch?v=jFKuB-Xp_Hk"
+    },
+    "percentToQualify": 66
+  },
+  "Classical": {
+    "records": [],
+    "verifier": {
+      "verifier": "kumori",
+      "verification": "https://youtu.be/8fW_aLeiD6g?si=hrFurgoosDXFqSaM"
+    },
+    "percentToQualify": 66
+  },
+  "Satch Party": {
+    "records": [],
+    "verifier": {
+      "verifier": "Skulzi",
+      "verification": "https://www.youtube.com/watch?v=OuHVbQepGJU"
+    },
+    "percentToQualify": 66
+  },
+  "Cosmic Dash": {
+    "records": [],
+    "verifier": {
+      "verifier": "RadScorpionGD",
+      "verification": "https://www.youtube.com/watch?v=0cQ2Iwkj4Lo"
+    },
+    "percentToQualify": 66
+  },
+  "MUCCA CITY": {
+    "records": [],
+    "verifier": {
+      "verifier": "GJoseph",
+      "verification": "https://www.youtube.com/watch?v=EqhRLJEQxqE"
+    },
+    "percentToQualify": 66
+  },
+  "No Surprises": {
+    "records": [],
+    "verifier": {
+      "verifier": "Madison Yuko",
+      "verification": "https://www.youtube.com/watch?v=Om81qKkguRk"
+    },
+    "percentToQualify": 66
+  },
+  "Tuz": {
+    "records": [],
+    "verifier": {
+      "verifier": "vonic",
+      "verification": "https://www.youtube.com/watch?v=humQMn-M5uY"
+    },
+    "percentToQualify": 66
+  },
+  "In The Sky": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tinraz",
+      "verification": "https://www.youtube.com/watch?v=vbSsqwGpar4"
     },
     "percentToQualify": 66
   }
