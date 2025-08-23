@@ -22652,5 +22652,21 @@
       "verification": "https://www.youtube.com/watch?v=vbSsqwGpar4"
     },
     "percentToQualify": 66
+  },
+  "Fuminsho no Mori": {
+    "records": [],
+    "verifier": {
+      "verifier": "Shia",
+      "verification": "https://www.youtube.com/watch?v=RllrAxA5kLw&t"
+    },
+    "percentToQualify": 66
+  },
+  "Noctacide": {
+    "records": [],
+    "verifier": {
+      "verifier": "AtomicC",
+      "verification": "https://www.youtube.com/watch?v=308lUyG3YL4"
+    },
+    "percentToQualify": 66
   }
 }
