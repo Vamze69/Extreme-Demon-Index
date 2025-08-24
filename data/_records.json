@@ -17803,7 +17803,14 @@
       "verifier": "KrmaL",
       "verification": "https://www.youtube.com/watch?v=gHHqPIvZXeM"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Olivia ♡",
+        "link": "https://www.youtube.com/watch?v=1qhwtubN_lQ",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Gunslinga Corridor (Unnerfed)": {
