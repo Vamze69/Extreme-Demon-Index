@@ -6190,7 +6190,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Leviathan": {
+  "Leviathan (BIGMAC77)": {
     "verifier": {
       "verifier": "joeingly",
       "verification": "https://www.youtube.com/watch?v=0nmQnUYoPpE"
@@ -22255,8 +22255,8 @@
   "Silver Lights": {
     "records": [],
     "verifier": {
-      "verifier": "DreamingLlama",
-      "verification": "https://www.youtube.com/watch?v=V-7EUPmXVhI"
+      "verifier": "Hipo",
+      "verification": "https://youtu.be/SYjcC3E5D_I?si=9MvPAFzwlmPgzdfY"
     },
     "percentToQualify": 66
   },
@@ -22753,6 +22753,86 @@
     "verifier": {
       "verifier": "Sensawa",
       "verification": "https://www.youtube.com/watch?v=dOCipbDH4Qs"
+    },
+    "percentToQualify": 66
+  },
+  "Andron": {
+    "records": [],
+    "verifier": {
+      "verifier": "Griffin128",
+      "verification": "https://www.youtube.com/watch?v=q_W8rLFtOW4"
+    },
+    "percentToQualify": 66
+  },
+  "Hey": {
+    "records": [],
+    "verifier": {
+      "verifier": "AVALANCHA121",
+      "verification": "https://www.youtube.com/watch?v=i-e9Kalnvuk"
+    },
+    "percentToQualify": 66
+  },
+  "Elite Z": {
+    "records": [],
+    "verifier": {
+      "verifier": "ButterFish",
+      "verification": "https://www.youtube.com/watch?v=bE9C_d1J1kw"
+    },
+    "percentToQualify": 66
+  },
+  "BIB": {
+    "records": [],
+    "verifier": {
+      "verifier": "TENDEN",
+      "verification": "https://www.youtube.com/watch?v=JmUhJMYh2PA"
+    },
+    "percentToQualify": 66
+  },
+  "Jerbless Circles": {
+    "records": [],
+    "verifier": {
+      "verifier": "maxler",
+      "verification": "https://www.youtube.com/watch?v=y3EUmhVI7l8"
+    },
+    "percentToQualify": 66
+  },
+  "SIGMA FINALE": {
+    "records": [],
+    "verifier": {
+      "verifier": "Serpentical",
+      "verification": "https://www.youtube.com/watch?v=orX3NdNjtO0"
+    },
+    "percentToQualify": 66
+  },
+  "BEES MAKE HONEY": {
+    "records": [],
+    "verifier": {
+      "verifier": "VaughansStuff",
+      "verification": "https://www.youtube.com/watch?v=GWP40-sU2ww"
+    },
+    "percentToQualify": 66
+  },
+  "Leviathan (KaptainCPU)": {
+    "records": [],
+    "verifier": {
+      "verifier": "KPGDylan",
+      "verification": "https://www.youtube.com/watch?v=-jugAwY_xzk"
+    },
+    "percentToQualify": 66
+  },
+  "Factory Closed": {
+    "records": [],
+    "verifier": {
+      "verifier": "Breakcore",
+      "verification": "https://www.youtube.com/watch?v=vOQqdz3JHw4"
+    },
+    "percentToQualify": 66
+  },
+  "itaots": {
+    "records": [],
+    "verifier": {
+      "verifier": "tux",
+      "verification": "https://www.youtube.com/watch?v=j2jTlJrjQGw"
     },
     "percentToQualify": 66
   }
