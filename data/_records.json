@@ -1857,7 +1857,7 @@
   },
   "Abocto": {
     "verifier": {
-      "verifier": "Clara Clarinha",
+      "verifier": "Clara",
       "verification": "https://www.youtube.com/watch?v=sy70OO_zUJQ"
     },
     "records": [],
@@ -4073,8 +4073,8 @@
   },
   "Gracefully": {
     "verifier": {
-      "verifier": "theworldofme",
-      "verification": "https://www.youtube.com/watch?v=ILzPn3Ig-D8"
+      "verifier": "Noxiom",
+      "verification": "https://www.youtube.com/watch?v=5RBn1nk5wb4"
     },
     "records": [],
     "percentToQualify": 67
@@ -5544,7 +5544,7 @@
   },
   "imaginary flowers": {
     "verifier": {
-      "verifier": "xFinleyGD",
+      "verifier": "iamfinleyGD",
       "verification": "https://www.youtube.com/watch?v=9o29OOPY9Is"
     },
     "records": [],
@@ -5808,7 +5808,7 @@
   },
   "CDG": {
     "verifier": {
-      "verifier": "Clara Clarinha",
+      "verifier": "Clara",
       "verification": "https://www.youtube.com/watch?v=Hs1y1KypIkU"
     },
     "records": [],
@@ -5910,7 +5910,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Shitty Nullscapes": {
+  "Shitty Nullscapes (dookyfarts)": {
     "verifier": {
       "verifier": "Nutbasta",
       "verification": "https://www.youtube.com/watch?v=kNZjWFTNtNI"
@@ -6200,7 +6200,7 @@
   },
   "HIGH ON FISH": {
     "verifier": {
-      "verifier": "xFinleyGD",
+      "verifier": "iamfinleyGD",
       "verification": "https://www.youtube.com/watch?v=49ghFRZoxaI"
     },
     "records": [],
@@ -9207,7 +9207,7 @@
   },
   "Aesthetic Abyss": {
     "verifier": {
-      "verifier": "xFinleyGD",
+      "verifier": "iamfinleyGD",
       "verification": "https://www.youtube.com/watch?v=ROnZ-jJLT9Q"
     },
     "records": [],
@@ -17265,7 +17265,14 @@
       "verifier": "Andromeda",
       "verification": "https://www.youtube.com/watch?v=kUTC700-5UA"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Olivia ♡",
+        "link": "https://www.youtube.com/watch?v=OmRuyeKqiIA&pp=0gcJCbIJAYcqIYzv",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "PLANET TERROR": {
@@ -21847,7 +21854,7 @@
   "ABOROTERETA": {
     "records": [],
     "verifier": {
-      "verifier": "Clara Clarinha",
+      "verifier": "Clara",
       "verification": "https://www.youtube.com/watch?v=Vcwu6-TIjmc"
     },
     "percentToQualify": 66
@@ -22969,6 +22976,1358 @@
     "verifier": {
       "verifier": "ButterFish",
       "verification": "https://www.youtube.com/watch?v=nDcXeU27wdY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Kyouki": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=bE61mDudcuQ"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Avernus (vic)": {
+    "records": [],
+    "verifier": {
+      "verifier": "vic",
+      "verification": "https://www.youtube.com/watch?v=D9KQGz5ah3I"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Tidal Wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Clare",
+      "verification": "https://www.youtube.com/watch?v=jIT5kMmAVS8"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Stellar Night": {
+    "records": [],
+    "verifier": {
+      "verifier": "essie",
+      "verification": "https://www.youtube.com/watch?v=8sZMPgCEm0c"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Acheron (PrometheusSV)": {
+    "records": [],
+    "verifier": {
+      "verifier": "BrightBird",
+      "verification": "https://www.youtube.com/watch?v=rGFDwB571g8"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Slaughterhouse (AcaciaDoor)": {
+    "records": [],
+    "verifier": {
+      "verifier": "skeeb",
+      "verification": "https://www.youtube.com/watch?v=ntNoTsewmUQ"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Eternal Night": {
+    "records": [],
+    "verifier": {
+      "verifier": "ItzMira",
+      "verification": "https://www.youtube.com/watch?v=zTImAWphrfw"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Cognition (ImaGDChris2k18)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Rixen Ace",
+      "verification": "https://www.youtube.com/watch?v=fiJLX3i-nvo"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Loochiverse": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kobra456",
+      "verification": "https://www.youtube.com/watch?v=g-KJqAQieSM"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Tunnel of Despair": {
+    "records": [],
+    "verifier": {
+      "verifier": "GuillExprex52",
+      "verification": "https://www.youtube.com/watch?v=PPy77Z0Mtro"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty The Wonder of You": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=SC14q_F4Q08"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty ETERNALTheory": {
+    "records": [],
+    "verifier": {
+      "verifier": "Aremi",
+      "verification": "https://www.youtube.com/watch?v=7I8U-iCPUoI"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty CITRA": {
+    "records": [],
+    "verifier": {
+      "verifier": "bnuuy",
+      "verification": "https://www.youtube.com/watch?v=TRJRKuFxA28"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Climax": {
+    "records": [],
+    "verifier": {
+      "verifier": "DeltaPhantom1",
+      "verification": "https://www.youtube.com/watch?v=2g0X5TFaKHQ"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Verdant Landscape": {
+    "records": [],
+    "verifier": {
+      "verifier": "iRaily",
+      "verification": "https://www.youtube.com/watch?v=knWvX2Eheg0"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty NEUTRA": {
+    "records": [],
+    "verifier": {
+      "verifier": "Riptide",
+      "verification": "https://www.youtube.com/watch?v=kRj_p2IN4LQ"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty The Hallucination": {
+    "records": [],
+    "verifier": {
+      "verifier": "iRaily",
+      "verification": "https://www.youtube.com/watch?v=vV4KjSfWvAY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Corrupted Planet": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dandy Chiggins",
+      "verification": "https://www.youtube.com/watch?v=4duF12AGYgE"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Hard Machine": {
+    "records": [],
+    "verifier": {
+      "verifier": "Prometheus",
+      "verification": "https://www.youtube.com/watch?v=qv6O_dC3ptc"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Frozen Cave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tai0",
+      "verification": "https://www.youtube.com/watch?v=fvuuGXlZgYE"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Cosmic Cyclone": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=ia12tPsK_tQ"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty MUTINY": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zernias",
+      "verification": "https://www.youtube.com/watch?v=gTd7r3aHtRA"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Critical Heat": {
+    "records": [],
+    "verifier": {
+      "verifier": "TheRandomStuff",
+      "verification": "https://www.youtube.com/watch?v=aY7QtBVMkDE"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Aerial Gleam": {
+    "records": [],
+    "verifier": {
+      "verifier": "iRaily",
+      "verification": "https://www.youtube.com/watch?v=ghMSAgmih0U"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Eternal Moment": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dandy Chiggins",
+      "verification": "https://www.youtube.com/watch?v=3LEpXjCSRtA"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Walter White": {
+    "records": [],
+    "verifier": {
+      "verifier": "Swiborg",
+      "verification": "https://www.youtube.com/watch?v=hKh1HlftURE"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Africa Circles": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lawnmower",
+      "verification": "https://www.youtube.com/watch?v=0TeDnjX-j3o"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Oblivion": {
+    "records": [],
+    "verifier": {
+      "verifier": "skeeb",
+      "verification": "https://www.youtube.com/watch?v=eDxH-gAGA30"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Solar Flare": {
+    "records": [],
+    "verifier": {
+      "verifier": "vKaii",
+      "verification": "https://www.youtube.com/watch?v=LpVnOekzu4s"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Kate": {
+    "records": [],
+    "verifier": {
+      "verifier": "normus",
+      "verification": "https://www.youtube.com/watch?v=_GA6jsNzPnU"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Tidestep": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zernias",
+      "verification": "https://www.youtube.com/watch?v=cmhUrIMiKDM"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty RANDOM ACCESS MEMORY": {
+    "records": [],
+    "verifier": {
+      "verifier": "Riptide",
+      "verification": "https://www.youtube.com/watch?v=LKDkGxGxYwY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Terminux": {
+    "records": [],
+    "verifier": {
+      "verifier": "BrightBird",
+      "verification": "https://www.youtube.com/watch?v=UyplC_o1RYs"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Sigma": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kobra456",
+      "verification": "https://www.youtube.com/watch?v=fDuHmvU0A5k"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Calamity": {
+    "records": [],
+    "verifier": {
+      "verifier": "Slayer",
+      "verification": "https://www.youtube.com/watch?v=cL51qDHZkTQ"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Henken": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gokill",
+      "verification": "https://www.youtube.com/watch?v=eI-NEl09C0Y"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Glacial Dream": {
+    "records": [],
+    "verifier": {
+      "verifier": "LzKlauss",
+      "verification": "https://www.youtube.com/watch?v=Iwr90UF4RcM"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Descent Into Exile": {
+    "records": [],
+    "verifier": {
+      "verifier": "iRaily",
+      "verification": "https://www.youtube.com/watch?v=4EkcsqJVKks"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Natural Disaster": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dandy Chiggins",
+      "verification": "https://www.youtube.com/watch?v=KGg9X8Tk0mk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty of Ambrosia": {
+    "records": [],
+    "verifier": {
+      "verifier": "Samuuu18",
+      "verification": "https://www.youtube.com/watch?v=aQ5eEvPbwOI"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Dark Flare": {
+    "records": [],
+    "verifier": {
+      "verifier": "Delay",
+      "verification": "https://www.youtube.com/watch?v=LMCGAAuAVFA"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Cold Sweat": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lipton",
+      "verification": "https://www.youtube.com/watch?v=D7VpEhuyC2w"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Atomic Cannon Mk II": {
+    "records": [],
+    "verifier": {
+      "verifier": "Shel",
+      "verification": "https://www.youtube.com/watch?v=iADm4pv8VXM"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty The Golden": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=9YmF_58zjxE"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Spectrum Cyclone": {
+    "records": [],
+    "verifier": {
+      "verifier": "qb1",
+      "verification": "https://www.youtube.com/watch?v=1VMFNpNmOjI"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Aronia": {
+    "records": [],
+    "verifier": {
+      "verifier": "BrightBird",
+      "verification": "https://www.youtube.com/watch?v=YQw8gjEeZRg"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Lotus Flower": {
+    "records": [],
+    "verifier": {
+      "verifier": "donut737",
+      "verification": "https://www.youtube.com/watch?v=WFyghtO-d54"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Sazerix": {
+    "records": [],
+    "verifier": {
+      "verifier": "zFhyr",
+      "verification": "https://www.youtube.com/watch?v=IqK3courbcM"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty super probably level": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kiwi1938",
+      "verification": "https://www.youtube.com/watch?v=spe7voVrG64"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Enjoy": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=wRuWS4HjbqQ"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Down Bass Incarnation": {
+    "records": [],
+    "verifier": {
+      "verifier": "LzKlauss",
+      "verification": "https://www.youtube.com/watch?v=Ejqzbb_jQW8"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Gustavo Fring": {
+    "records": [],
+    "verifier": {
+      "verifier": "miguel6456",
+      "verification": "https://www.youtube.com/watch?v=umLTIo9PCFk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Aquatic Auroras": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dandy Chiggins",
+      "verification": "https://www.youtube.com/watch?v=tEUfeGbBVKA"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Pagoda": {
+    "records": [],
+    "verifier": {
+      "verifier": "iRaily",
+      "verification": "https://www.youtube.com/watch?v=OhrdEToo7b0"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Knights of Thunder (asmallsock)": {
+    "records": [],
+    "verifier": {
+      "verifier": "asmallsock",
+      "verification": "https://www.youtube.com/watch?v=beXr1JVUENk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Anemesis": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tai0",
+      "verification": "https://www.youtube.com/watch?v=ljt0d9WPrCQ"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Ringy Paracosm": {
+    "records": [],
+    "verifier": {
+      "verifier": "skyv",
+      "verification": "https://www.youtube.com/watch?v=PlPFkDAx2o0"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Silent Helheim": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=rIng6gj3-PM"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Athens": {
+    "records": [],
+    "verifier": {
+      "verifier": "essie",
+      "verification": "https://www.youtube.com/watch?v=gs-hP7VNwJc"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Kenos": {
+    "records": [],
+    "verifier": {
+      "verifier": "GDTeabag",
+      "verification": "https://www.youtube.com/watch?v=4MF4yyCtbWo"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Sephiroth": {
+    "records": [],
+    "verifier": {
+      "verifier": "zFhyr",
+      "verification": "https://www.youtube.com/watch?v=A0OfSBoSeXo"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Visible Ray": {
+    "records": [],
+    "verifier": {
+      "verifier": "zFhyr",
+      "verification": "https://www.youtube.com/watch?v=g8N0bRov1fE"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty UNKNOWN": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dandy Chiggins",
+      "verification": "https://www.youtube.com/watch?v=ObIJBphSSdY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Trueffet": {
+    "records": [],
+    "verifier": {
+      "verifier": "nayf",
+      "verification": "https://www.youtube.com/watch?v=3mD3TLNQyVA"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Sparkling": {
+    "records": [],
+    "verifier": {
+      "verifier": "GhostFire",
+      "verification": "https://www.youtube.com/watch?v=pGWddCJA0p8"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Akira": {
+    "records": [],
+    "verifier": {
+      "verifier": "T333",
+      "verification": "https://www.youtube.com/watch?v=t1EemT_4Cnw"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty RUST": {
+    "records": [],
+    "verifier": {
+      "verifier": "TheRandomStuff",
+      "verification": "https://www.youtube.com/watch?v=VCKtUnPOIrk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Belloq": {
+    "records": [],
+    "verifier": {
+      "verifier": "Maesile",
+      "verification": "https://www.youtube.com/watch?v=CecS1XU2_L0"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Hyper Paracosm": {
+    "records": [],
+    "verifier": {
+      "verifier": "Neltumn",
+      "verification": "https://www.youtube.com/watch?v=-G8uOkDs4Zk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty The Wiener": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zernias",
+      "verification": "https://www.youtube.com/watch?v=S6qjERaOiZs"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Nightshade": {
+    "records": [],
+    "verifier": {
+      "verifier": "dofar",
+      "verification": "https://www.youtube.com/watch?v=HOu-21nHhts"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty WOW": {
+    "records": [],
+    "verifier": {
+      "verifier": "DNM121",
+      "verification": "https://www.youtube.com/watch?v=Pl1gMdMWKiY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Shardscapes": {
+    "records": [],
+    "verifier": {
+      "verifier": "ElBrocasYT",
+      "verification": "https://www.youtube.com/watch?v=IYeTcyT-0s4"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Sky Shredder": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gamer2052",
+      "verification": "https://www.youtube.com/watch?v=knHmDgMgwKk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty no jokes": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=2d5PNdKy7p4"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Marathon": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kiwi1938",
+      "verification": "https://www.youtube.com/watch?v=uGPZt7RUS-Y"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Omega Interface": {
+    "records": [],
+    "verifier": {
+      "verifier": "Holojen",
+      "verification": "https://www.youtube.com/watch?v=HAnX6pVQkVM"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Molten Core": {
+    "records": [],
+    "verifier": {
+      "verifier": "qzkk",
+      "verification": "https://www.youtube.com/watch?v=LmLMBxe322A"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Call Me Maybe": {
+    "records": [],
+    "verifier": {
+      "verifier": "asmallsock",
+      "verification": "https://www.youtube.com/watch?v=LtLRFUQSLU0"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Deimos (Whitar)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=mE-ImOaqN1o"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Chromatic Haze": {
+    "records": [],
+    "verifier": {
+      "verifier": "Riptide",
+      "verification": "https://www.youtube.com/watch?v=GgpIO2t3NeU"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Celestial Force": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lucid",
+      "verification": "https://www.youtube.com/watch?v=P8wiBAaj6L4"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty qoUEO": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dandy Chiggins",
+      "verification": "https://www.youtube.com/watch?v=55IqT4zdCFs"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Nhelv": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=p8k43LzIa3A"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Azure Flare": {
+    "records": [],
+    "verifier": {
+      "verifier": "Magmeta",
+      "verification": "https://www.youtube.com/watch?v=ljJYaYUCvyY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty The Reaper": {
+    "records": [],
+    "verifier": {
+      "verifier": "lucci",
+      "verification": "https://www.youtube.com/watch?v=FvGveVrIArE"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Jesse Pinkman": {
+    "records": [],
+    "verifier": {
+      "verifier": "GhostFire",
+      "verification": "https://www.youtube.com/watch?v=J4aQUluFf88"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty p00p": {
+    "records": [],
+    "verifier": {
+      "verifier": "Magmeta",
+      "verification": "https://www.youtube.com/watch?v=YLwwuSt3EwE"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Knights of Thunder (WDWiktor)": {
+    "records": [],
+    "verifier": {
+      "verifier": "WDWiktor",
+      "verification": "https://www.youtube.com/watch?v=KvtKDZgePMc"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Wasureta": {
+    "records": [],
+    "verifier": {
+      "verifier": "WDWiktor",
+      "verification": "https://www.youtube.com/watch?v=XEKOBEJCW50"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Freedom08": {
+    "records": [],
+    "verifier": {
+      "verifier": "KasiaUwU",
+      "verification": "https://www.youtube.com/watch?v=IraXq3pZoLo"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Happyhouse": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=fL_i8_f0CL4"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Arctic Lights (WDWiktor)": {
+    "records": [],
+    "verifier": {
+      "verifier": "iamfinley",
+      "verification": "https://www.youtube.com/watch?v=BCuEKtYVZTY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Aquamarine": {
+    "records": [],
+    "verifier": {
+      "verifier": "Slayer",
+      "verification": "https://www.youtube.com/watch?v=BvDxO3gcRtY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Diabolic Clubstep": {
+    "records": [],
+    "verifier": {
+      "verifier": "skyv",
+      "verification": "https://www.youtube.com/watch?v=knmkQlgIdd4"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Zodiac": {
+    "records": [],
+    "verifier": {
+      "verifier": "zFhyr",
+      "verification": "https://www.youtube.com/watch?v=l4xOT6c9ZWA"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty MINUSdry": {
+    "records": [],
+    "verifier": {
+      "verifier": "NucDev",
+      "verification": "https://www.youtube.com/watch?v=u03Qk-zjEc0"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty The Devil": {
+    "records": [],
+    "verifier": {
+      "verifier": "WDWiktor",
+      "verification": "https://www.youtube.com/watch?v=i-QvuRlGZWw"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Ocular Miracle": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=Z7bRCXJys98"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty kowareta": {
+    "records": [],
+    "verifier": {
+      "verifier": "FrenchFry",
+      "verification": "https://www.youtube.com/watch?v=MxQG7oFD29c"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty SZYSLAK": {
+    "records": [],
+    "verifier": {
+      "verifier": "Normus",
+      "verification": "https://www.youtube.com/watch?v=KGk722gZrC8"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Keres": {
+    "records": [],
+    "verifier": {
+      "verifier": "iRaily",
+      "verification": "https://www.youtube.com/watch?v=QRdUWvSfa1E"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Acheron (Twoft)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Twoft",
+      "verification": "https://www.youtube.com/watch?v=jlkXoW0j3qs"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Edge of the Blade": {
+    "records": [],
+    "verifier": {
+      "verifier": "bluuper",
+      "verification": "https://www.youtube.com/watch?v=FLH5Ek73viQ"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Ddiamond": {
+    "records": [],
+    "verifier": {
+      "verifier": "lucap123",
+      "verification": "https://www.youtube.com/watch?v=vm0uyIEy6As"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Timor": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kobra456",
+      "verification": "https://www.youtube.com/watch?v=wMOdIxZv0h4"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Lucid Chaos": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kobra456",
+      "verification": "https://www.youtube.com/watch?v=sGfz4fxoSr8"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Vengeance": {
+    "records": [],
+    "verifier": {
+      "verifier": "DeltaPhantom1",
+      "verification": "https://www.youtube.com/watch?v=cjWRB8UZR3M"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty RASH": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=vopZvN1lLns"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Avernus (mrcsgmd)": {
+    "records": [],
+    "verifier": {
+      "verifier": "mrcsgmd",
+      "verification": "https://www.youtube.com/watch?v=0Jz39MJTC-o"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Sakupen Circles": {
+    "records": [],
+    "verifier": {
+      "verifier": "bnuuy",
+      "verification": "https://www.youtube.com/watch?v=TvxNRQkKqk8"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty ISLEPTIN vc": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kobra456",
+      "verification": "https://www.youtube.com/watch?v=Q36C2wk8fVs"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Deimos (Xcl0624i)": {
+    "records": [],
+    "verifier": {
+      "verifier": "iRaily",
+      "verification": "https://www.youtube.com/watch?v=waos7xD6Qi8"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Killbot": {
+    "records": [],
+    "verifier": {
+      "verifier": "WDWiktor",
+      "verification": "https://www.youtube.com/watch?v=el63QoyMN_E"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Plasma Pulse Finale": {
+    "records": [],
+    "verifier": {
+      "verifier": "Acidius",
+      "verification": "https://www.youtube.com/watch?v=3lKZcAwgFkA"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty CHROMA II": {
+    "records": [],
+    "verifier": {
+      "verifier": "LBoke",
+      "verification": "https://www.youtube.com/watch?v=dREJlJMJqX4"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Macabre": {
+    "records": [],
+    "verifier": {
+      "verifier": "Shel",
+      "verification": "https://www.youtube.com/watch?v=lmXlV3NKhmY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Sonic Wave (revalutionary)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gamer2052",
+      "verification": "https://www.youtube.com/watch?v=BDBYHtNSoEs"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty untitled unmastered": {
+    "records": [],
+    "verifier": {
+      "verifier": "WaxySs",
+      "verification": "https://www.youtube.com/watch?v=GLX5B_pwkHg"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty La Magicienne Rose": {
+    "records": [],
+    "verifier": {
+      "verifier": "Alaniz004",
+      "verification": "https://www.youtube.com/watch?v=Y8_qMkc5dno"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Sonic Wave (D4im0n)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ipodnicks",
+      "verification": "https://www.youtube.com/watch?v=0oldUrLnQy4"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Escape Room": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=s8VSCysgcCg"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty SUPERHATEMEWORLD": {
+    "records": [],
+    "verifier": {
+      "verifier": "vKaii",
+      "verification": "https://www.youtube.com/watch?v=EsbLouSHi_w"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Arctic Lights (Ryoui)": {
+    "records": [],
+    "verifier": {
+      "verifier": "poop kink",
+      "verification": "https://www.youtube.com/watch?v=kx0O7Zz-6so"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Yatagarasu": {
+    "records": [],
+    "verifier": {
+      "verifier": "TravelChimp",
+      "verification": "https://www.youtube.com/watch?v=eLDuFOzTebI"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Slaughterhouse (JASM18)": {
+    "records": [],
+    "verifier": {
+      "verifier": "SOFIARG",
+      "verification": "https://www.youtube.com/watch?v=3GkCFd6dlo0"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Jelly Shots": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kobra456",
+      "verification": "https://www.youtube.com/watch?v=rrnODW1O_lY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Thinking Space": {
+    "records": [],
+    "verifier": {
+      "verifier": "AleczD",
+      "verification": "https://www.youtube.com/watch?v=fdZegi2UWfo"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty The Rupture": {
+    "records": [],
+    "verifier": {
+      "verifier": "xcl_0624",
+      "verification": "https://www.youtube.com/watch?v=CJx8nglZTdk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty ATOMIC CANNON Mk III": {
+    "records": [],
+    "verifier": {
+      "verifier": "DeltaFlare",
+      "verification": "https://www.youtube.com/watch?v=3XS28hHMBTk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Never Beat It": {
+    "records": [],
+    "verifier": {
+      "verifier": "AcaciaDoor",
+      "verification": "https://www.youtube.com/watch?v=XqcG3k935cI"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Sink": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dipper552",
+      "verification": "https://www.youtube.com/watch?v=fCqsB2OvEnE"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty The Yandere": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kobra456",
+      "verification": "https://www.youtube.com/watch?v=W05vrUHH7gU"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty loop": {
+    "records": [],
+    "verifier": {
+      "verifier": "dofar",
+      "verification": "https://www.youtube.com/watch?v=Hcyi2nSODSU"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Triple Six": {
+    "records": [],
+    "verifier": {
+      "verifier": "Bibox",
+      "verification": "https://www.youtube.com/watch?v=QgNYV62Cp8g"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Spectrum Rave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Shel",
+      "verification": "https://www.youtube.com/watch?v=gwHvsCkWGD0"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty CHROMA FINALE": {
+    "records": [],
+    "verifier": {
+      "verifier": "Knicide",
+      "verification": "https://www.youtube.com/watch?v=cGG2nWnkDGY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Dolos": {
+    "records": [],
+    "verifier": {
+      "verifier": "NoCtrl",
+      "verification": "https://www.youtube.com/watch?v=kCBCXMxTiwk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Martin": {
+    "records": [],
+    "verifier": {
+      "verifier": "WDWiktor",
+      "verification": "https://www.youtube.com/watch?v=umkbWRvUSlU"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Surge of the Shield": {
+    "records": [],
+    "verifier": {
+      "verifier": "MinYong",
+      "verification": "https://www.youtube.com/watch?v=GcNw1xyt9ds"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty ATOMIC CANNON": {
+    "records": [],
+    "verifier": {
+      "verifier": "Shel",
+      "verification": "https://www.youtube.com/watch?v=89tyiz2uJCA"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Vaenstep": {
+    "records": [],
+    "verifier": {
+      "verifier": "AcaciaDoor",
+      "verification": "https://www.youtube.com/watch?v=sXtqwFGIcpY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty SARY NEVER CLEAR (AcropolisBoy)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tai0",
+      "verification": "https://www.youtube.com/watch?v=uFnJ97RdQSw"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Element 111 Rg": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zernias",
+      "verification": "https://www.youtube.com/watch?v=R3kI8vmCEHk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Ethereal Artifice": {
+    "records": [],
+    "verifier": {
+      "verifier": "Andrew14916",
+      "verification": "https://www.youtube.com/watch?v=BovJebfj09I"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Aeternus": {
+    "records": [],
+    "verifier": {
+      "verifier": "Diverse",
+      "verification": "https://www.youtube.com/watch?v=li_s_6tSdjE"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty lobotomy": {
+    "records": [],
+    "verifier": {
+      "verifier": "PhysixX",
+      "verification": "https://www.youtube.com/watch?v=fm7Cj_7Dnoc"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Edge of Destiny": {
+    "records": [],
+    "verifier": {
+      "verifier": "iRaily",
+      "verification": "https://www.youtube.com/watch?v=TCYf5refr_g"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty EUPHORIA": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dxst",
+      "verification": "https://www.youtube.com/watch?v=SqwEdwBvG18"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Sunset Sandstorm": {
+    "records": [],
+    "verifier": {
+      "verifier": "Riptide",
+      "verification": "https://www.youtube.com/watch?v=BHF_xnnO7Ew"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Lateral Myst": {
+    "records": [],
+    "verifier": {
+      "verifier": "Davine_007",
+      "verification": "https://www.youtube.com/watch?v=Lx4Stxh9nG8"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty SARY NEVER CLEAR (PhantomGT7)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gamer2052",
+      "verification": "https://www.youtube.com/watch?v=iXdO4uyf3L8"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Erebus": {
+    "records": [],
+    "verifier": {
+      "verifier": "AzielGD",
+      "verification": "https://www.youtube.com/watch?v=MbUUiMJUvbA"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty rosedynamix": {
+    "records": [],
+    "verifier": {
+      "verifier": "iRaily",
+      "verification": "https://www.youtube.com/watch?v=Apwoz1H3ViE"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty VEIL": {
+    "records": [],
+    "verifier": {
+      "verifier": "Maxiops35",
+      "verification": "https://www.youtube.com/watch?v=U1noIgdLP5M"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Ouroboros": {
+    "records": [],
+    "verifier": {
+      "verifier": "Grixi",
+      "verification": "https://www.youtube.com/watch?v=Mbm5XsQnpvs"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Love": {
+    "records": [],
+    "verifier": {
+      "verifier": "Slayer",
+      "verification": "https://www.youtube.com/watch?v=p5ccDrubv5U"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty SHATTER": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lil_Creator",
+      "verification": "https://www.youtube.com/watch?v=E-nPQ0OPY2k"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty AfterCataBath": {
+    "records": [],
+    "verifier": {
+      "verifier": "homegrowntag",
+      "verification": "https://www.youtube.com/watch?v=mTk3hm2RzvA"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Firework": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kobra456",
+      "verification": "https://www.youtube.com/watch?v=v9TkqNDg-lI"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty EXPLICIT": {
+    "records": [],
+    "verifier": {
+      "verifier": "vKaii",
+      "verification": "https://www.youtube.com/watch?v=fHM5de1lX-U"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Nullscapes (twoft)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Twoft",
+      "verification": "https://www.youtube.com/watch?v=-nBF6OipGi4"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty xo": {
+    "records": [],
+    "verifier": {
+      "verifier": "iRaily",
+      "verification": "https://www.youtube.com/watch?v=t4_5hTjExCk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Hephaestus": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ryoui",
+      "verification": "https://www.youtube.com/watch?v=8acljkSdbdM"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Cognition (Gamer2052)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Twoft",
+      "verification": "https://www.youtube.com/watch?v=3pudke5Qjyo"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Low Death": {
+    "records": [],
+    "verifier": {
+      "verifier": "skyv",
+      "verification": "https://www.youtube.com/watch?v=TBn2msDPtM8"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Beztana Vortex": {
+    "records": [],
+    "verifier": {
+      "verifier": "SlayerBot",
+      "verification": "https://www.youtube.com/watch?v=m3HE5bR3dQk"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Aesthetic": {
+    "records": [],
+    "verifier": {
+      "verifier": "Andrew14916",
+      "verification": "https://www.youtube.com/watch?v=TUb7Wtb-o5w"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Thinking Space II": {
+    "records": [],
+    "verifier": {
+      "verifier": "Xcl0624i",
+      "verification": "https://www.youtube.com/watch?v=LZh-G9pLiqQ"
     },
     "percentToQualify": 66
   }
