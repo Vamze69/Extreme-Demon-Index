@@ -14244,7 +14244,14 @@
       "verifier": "Technical",
       "verification": "https://www.youtube.com/watch?v=zU1YH1AR8ok"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=oPthM22VMMc",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Fearful Reflection": {
@@ -17269,6 +17276,12 @@
       {
         "user": "Olivia ♡",
         "link": "https://www.youtube.com/watch?v=OmRuyeKqiIA&pp=0gcJCbIJAYcqIYzv",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=i5H8PNjPQxI",
         "percent": 100,
         "hz": 240
       }
