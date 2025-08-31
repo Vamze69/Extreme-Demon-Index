@@ -15,6 +15,14 @@
     "records": [],
     "percentToQualify": 66
   },
+  "90210": {
+    "records": [],
+    "verifier": {
+      "verifier": "MyntiFresh",
+      "verification": "https://www.youtube.com/watch?v=Tg7lTtZFVMs"
+    },
+    "percentToQualify": 66
+  },
   "Tidal Wave": {
     "records": [
       {
@@ -6086,7 +6094,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Sonic Wave Rebirth": {
+  "Sonic Wave Rebirth (Serponge)": {
     "verifier": {
       "verifier": "Moosh",
       "verification": "https://www.youtube.com/watch?v=wXxPNaqTZKU"
@@ -15132,7 +15140,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "LOST": {
+  "LOST (Fawami)": {
     "verifier": {
       "verifier": "zDark",
       "verification": "https://www.youtube.com/watch?v=0ZEOSfwdzfM"
@@ -15434,7 +15442,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Grind District": {
+  "Grind District (Cersia)": {
     "verifier": {
       "verifier": "Cersia",
       "verification": "https://www.youtube.com/watch?v=eMPI3CnZgp4"
@@ -24341,6 +24349,214 @@
     "verifier": {
       "verifier": "Xcl0624i",
       "verification": "https://www.youtube.com/watch?v=LZh-G9pLiqQ"
+    },
+    "percentToQualify": 66
+  },
+  "acheron 97 challenge": {
+    "records": [],
+    "verifier": {
+      "verifier": "wPopoff",
+      "verification": "https://www.youtube.com/live/YueacvC98cU?t=6780s"
+    },
+    "percentToQualify": 66
+  },
+  "BRITNEY NO SCLEARS": {
+    "records": [],
+    "verifier": {
+      "verifier": "Scotchtape",
+      "verification": "https://www.youtube.com/watch?v=ff_mQSXwjhU"
+    },
+    "percentToQualify": 66
+  },
+  "Specthys (Solo)": {
+    "records": [],
+    "verifier": {
+      "verifier": "gBen",
+      "verification": "https://www.youtube.com/watch?v=QEhqvQvEfNM"
+    },
+    "percentToQualify": 66
+  },
+  "Savor": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=JzCgcA39kow"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic DeCode": {
+    "records": [],
+    "verifier": {
+      "verifier": "godmarc",
+      "verification": "https://www.youtube.com/watch?v=UfGpCpNiIaA"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Rebirth (Mefewe)": {
+    "records": [],
+    "verifier": {
+      "verifier": "LkWavs",
+      "verification": "https://www.youtube.com/watch?v=7SjLRS9vLAc"
+    },
+    "percentToQualify": 66
+  },
+  "Lost (zkiwy123)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gigaprox",
+      "verification": "https://www.youtube.com/watch?v=iV53ptaBKB8"
+    },
+    "percentToQualify": 66
+  },
+  "Celestial Showdown": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gelforce",
+      "verification": "https://www.youtube.com/watch?v=i-iX1jzrMgU"
+    },
+    "percentToQualify": 66
+  },
+  "The Darkest Light": {
+    "records": [],
+    "verifier": {
+      "verifier": "ExtremeShowcase",
+      "verification": "https://www.youtube.com/watch?v=u6L2fl0QkAE"
+    },
+    "percentToQualify": 66
+  },
+  "numpad mouse": {
+    "records": [],
+    "verifier": {
+      "verifier": "Matt Gaming",
+      "verification": "https://www.youtube.com/watch?v=PQbK3GfxIb4"
+    },
+    "percentToQualify": 66
+  },
+  "Goliath": {
+    "records": [],
+    "verifier": {
+      "verifier": "FireGate",
+      "verification": "https://www.youtube.com/watch?v=GP9tPcVr6hM"
+    },
+    "percentToQualify": 66
+  },
+  "peace and love": {
+    "records": [],
+    "verifier": {
+      "verifier": "CoolBonnie1987",
+      "verification": "https://www.youtube.com/watch?v=XUfAuEldFoM"
+    },
+    "percentToQualify": 66
+  },
+  "Kod": {
+    "records": [],
+    "verifier": {
+      "verifier": "fnf1topplayer",
+      "verification": "https://www.youtube.com/watch?v=xtNqwjrwi5U"
+    },
+    "percentToQualify": 66
+  },
+  "Thanatos": {
+    "records": [],
+    "verifier": {
+      "verifier": "zDavid_02",
+      "verification": "https://www.youtube.com/watch?v=vZNvgyBEyZY"
+    },
+    "percentToQualify": 66
+  },
+  "Eternal Spring": {
+    "records": [],
+    "verifier": {
+      "verifier": "Felly",
+      "verification": "https://www.youtube.com/watch?v=0q6epNXrom0"
+    },
+    "percentToQualify": 66
+  },
+  "Mayhem (ErrorIGd)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Wesley",
+      "verification": "https://www.youtube.com/watch?v=rvbtESEDElQ"
+    },
+    "percentToQualify": 66
+  },
+  "GAS STATION TWEAKERS": {
+    "records": [],
+    "verifier": {
+      "verifier": "DankDrew",
+      "verification": "https://www.youtube.com/watch?v=4_SvPRJPMTc"
+    },
+    "percentToQualify": 66
+  },
+  "fire emoji": {
+    "records": [],
+    "verifier": {
+      "verifier": "Aberrent",
+      "verification": "https://www.youtube.com/watch?v=cYA6fvSsqR4"
+    },
+    "percentToQualify": 66
+  },
+  "HiSequence": {
+    "records": [],
+    "verifier": {
+      "verifier": "YaGdsh3r",
+      "verification": "https://www.youtube.com/watch?v=kvD-6BgOh_g"
+    },
+    "percentToQualify": 66
+  },
+  "Grind District (Airz)": {
+    "records": [],
+    "verifier": {
+      "verifier": "CheemMan",
+      "verification": "https://www.youtube.com/watch?v=Y6pQFN3GJ0g"
+    },
+    "percentToQualify": 66
+  },
+  "ANYONECANFINDLOVE": {
+    "records": [],
+    "verifier": {
+      "verifier": "GodTier",
+      "verification": "https://www.youtube.com/watch?v=k3yiAZl3vQw"
+    },
+    "percentToQualify": 66
+  },
+  "Flashlight": {
+    "records": [],
+    "verifier": {
+      "verifier": "IvanCrafter026",
+      "verification": "https://www.youtube.com/watch?v=JU57OO6IuWg"
+    },
+    "percentToQualify": 66
+  },
+  "Ace Kid": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sensawa",
+      "verification": "https://www.youtube.com/watch?v=gQi4Eb8_Mpk"
+    },
+    "percentToQualify": 66
+  },
+  "The Hell World (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Stormfly",
+      "verification": "https://www.youtube.com/watch?v=WSLo6Q5Y78k&t=105s"
+    },
+    "percentToQualify": 66
+  },
+  "POINTIERCRATE": {
+    "records": [],
+    "verifier": {
+      "verifier": "wafflewaffle12",
+      "verification": "https://www.youtube.com/watch?v=PSa-ygQ9NW8"
+    },
+    "percentToQualify": 66
+  },
+  "Havoc": {
+    "records": [],
+    "verifier": {
+      "verifier": "ultrakawaHD",
+      "verification": "https://www.youtube.com/watch?v=aiBmXGEJQzc"
     },
     "percentToQualify": 66
   }
