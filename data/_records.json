@@ -25118,5 +25118,13 @@
       "verification": "https://youtu.be/IZocVK1WL4I?si=r4gKPuMtfb48wh3P"
     },
     "percentToQualify": 66
+  },
+  "Flamewall": {
+    "records": [],
+    "verifier": {
+      "verifier": "Cuatrocientos",
+      "verification": "https://www.youtube.com/watch?v=x4Io4zkWVRw"
+    },
+    "percentToQualify": 66
   }
 }
