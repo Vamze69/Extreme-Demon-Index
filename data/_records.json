@@ -11553,7 +11553,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=qMWhGJADPxc",
         "percent": 100,
         "hz": 480
@@ -12949,7 +12949,7 @@
   },
   "transbath": {
     "verifier": {
-      "verifier": "Chloe ♡",
+      "verifier": "⋆♱Chloe♱⋆",
       "verification": "https://www.youtube.com/watch?v=Z1VTKx1ewUE"
     },
     "records": [],
@@ -12994,7 +12994,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=FWU9BxNXpBY",
         "percent": 100,
         "hz": 480
@@ -13016,7 +13016,7 @@
   },
   "Gaybath": {
     "verifier": {
-      "verifier": "Chloe ♡",
+      "verifier": "⋆♱Chloe♱⋆",
       "verification": "https://www.youtube.com/watch?v=9tVidtLMuH4"
     },
     "records": [],
@@ -13085,7 +13085,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=7tbEomhibPk",
         "percent": 100,
         "hz": 144
@@ -13124,7 +13124,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=HHpmYqJloXo",
         "percent": 100,
         "hz": 480
@@ -13330,10 +13330,17 @@
   },
   "Crystal Crusher (2P)": {
     "verifier": {
-      "verifier": "ZeusGD, Zeniux",
+      "verifier": "ZeusGD",
       "verification": "https://www.youtube.com/watch?v=TtoBzys4TV4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Zeniux",
+        "link": "https://www.youtube.com/watch?v=TtoBzys4TV4",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Free Fish": {
@@ -13802,10 +13809,17 @@
   },
   "WOBBLING MACHINE (2P)": {
     "verifier": {
-      "verifier": "Zeronium, Kutsu",
+      "verifier": "Zeronium",
       "verification": "https://www.youtube.com/watch?v=LevyHFnTyQI"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Kutsu",
+        "link": "https://www.youtube.com/watch?v=LevyHFnTyQI",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Marathon": {
@@ -14121,7 +14135,7 @@
   },
   "Sonic Wave NEO": {
     "verifier": {
-      "verifier": "Chloe ♡",
+      "verifier": "⋆♱Chloe♱⋆",
       "verification": "https://www.youtube.com/watch?v=BxwkwvmgVFg&t"
     },
     "records": [],
@@ -14483,7 +14497,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=878jtkZ_TuE",
         "percent": 100,
         "hz": 480
@@ -14709,10 +14723,17 @@
   },
   "BEELINE (2P)": {
     "verifier": {
-      "verifier": "Zeronium, Mooftwo",
+      "verifier": "Zeronium",
       "verification": "https://www.youtube.com/watch?v=ppN1Bae8UDE"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Mooftwo",
+        "link": "https://www.youtube.com/watch?v=ppN1Bae8UDE",
+        "percent": 100,
+        "hz": 280
+      }
+    ],
     "percentToQualify": 66
   },
   "Hydrogen Bomb": {
@@ -15226,7 +15247,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=lp5lkpibhIE",
         "percent": 100,
         "hz": 480
@@ -15244,10 +15265,17 @@
   },
   "We Are Not The Same (2P)": {
     "verifier": {
-      "verifier": "mbed, SpKale",
+      "verifier": "mbed",
       "verification": "https://www.youtube.com/watch?v=iFbiMw0GVzI"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "SpKale",
+        "link": "https://www.youtube.com/watch?v=iFbiMw0GVzI",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Inferno Lair II": {
@@ -15459,10 +15487,17 @@
   },
   "Codependence (2P)": {
     "verifier": {
-      "verifier": "Kapinapi, ViralDL",
+      "verifier": "Kapinapi",
       "verification": "https://www.youtube.com/watch?v=zxOuEzL6HXE"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "ViralDL",
+        "link": "https://www.youtube.com/watch?v=zxOuEzL6HXE",
+        "percent": 100,
+        "hz": 288
+      }
+    ],
     "percentToQualify": 66
   },
   "The Chaos Machine": {
@@ -15600,7 +15635,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=JDcrvNKicHk&t",
         "percent": 100,
         "hz": 480
@@ -16303,10 +16338,17 @@
   },
   "Sides Of My Mind (2P)": {
     "verifier": {
-      "verifier": "TheyCallMeEvan, Polyatomic",
+      "verifier": "TheyCallMeEvan",
       "verification": "https://www.youtube.com/watch?v=RHU27eLFZl4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Polyatomic",
+        "link": "https://www.youtube.com/watch?v=RHU27eLFZl4",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "In The Wind": {
@@ -16631,10 +16673,17 @@
   },
   "Tenkai (2P)": {
     "verifier": {
-      "verifier": "Luqualizer, TGI",
+      "verifier": "Luqualizer",
       "verification": "https://www.youtube.com/watch?v=I2ISOu9N4P0"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TGI",
+        "link": "https://www.youtube.com/watch?v=I2ISOu9N4P0",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Junk Realm": {
@@ -17100,10 +17149,17 @@
   },
   "me when machine gang (2P)": {
     "verifier": {
-      "verifier": "FloofiWan, Trideapthbear",
+      "verifier": "FloofiWan",
       "verification": "https://www.youtube.com/watch?v=t4skHFm7YY0"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Trideapthbear",
+        "link": "https://www.youtube.com/watch?v=t4skHFm7YY0",
+        "percent": 100,
+        "hz": 144
+      }
+    ],
     "percentToQualify": 66
   },
   "SUBVERSIVE": {
@@ -17252,10 +17308,17 @@
   },
   "Gentlemens Clique (2P)": {
     "verifier": {
-      "verifier": "DnuoZ, NathanYAY",
+      "verifier": "DnuoZ",
       "verification": "https://www.youtube.com/watch?v=iiHKeqY65o8"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "NathanYAY",
+        "link": "https://www.youtube.com/watch?v=iiHKeqY65o8",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "On1y Cub3": {
@@ -17289,7 +17352,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=OmRuyeKqiIA&pp=0gcJCbIJAYcqIYzv",
         "percent": 100,
         "hz": 240
@@ -17558,7 +17621,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=WnPNrQp-sdc&t",
         "percent": 100,
         "hz": 480
@@ -17840,7 +17903,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=1qhwtubN_lQ",
         "percent": 100,
         "hz": 240
@@ -18356,7 +18419,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://youtu.be/_gxw8uyCJWo?si=AT9yt0ckqhnHLqjU",
         "percent": 100,
         "hz": 240
@@ -18686,7 +18749,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=3kbSvrlShlQ",
         "percent": 100,
         "hz": 144
@@ -18903,7 +18966,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://youtu.be/y88ZKTKlLSI?si=Btb1Q-lQKhdKUjee",
         "percent": 100,
         "hz": 240
@@ -19147,7 +19210,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=VuVBeZrpjT4",
         "percent": 100,
         "hz": 240
@@ -19421,7 +19484,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=mP0BoN5mLXI",
         "percent": 100,
         "hz": 480
@@ -19895,7 +19958,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=YT2tee7dyXY",
         "percent": 100,
         "hz": 144
@@ -19984,6 +20047,12 @@
         "link": "https://youtu.be/ZLPqBWe9aXw?si=VD8keT-KI667mX3k",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "⋆♱Chloe♱⋆",
+        "link": "https://www.youtube.com/watch?v=WIz3aznG5-c",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -20139,7 +20208,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=kQCYjwgzn8o",
         "percent": 100,
         "hz": 240
@@ -20184,7 +20253,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=qXaOYteL2X8",
         "percent": 100,
         "hz": 240
@@ -20261,7 +20330,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=9-AVvPjh50w",
         "percent": 100,
         "hz": 144
@@ -20429,7 +20498,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=U74dYbyrhVQ",
         "percent": 100,
         "hz": 240
@@ -20706,7 +20775,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=LBG7Ezc3twk",
         "percent": 100,
         "hz": 480
@@ -20980,18 +21049,44 @@
   },
   "Bang Gang (2P)": {
     "verifier": {
-      "verifier": "Technical, npesta, Gizbro, Golden",
+      "verifier": "Technical",
       "verification": "https://www.youtube.com/watch?v=7hxdtpfKBi4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "npesta",
+        "link": "https://www.youtube.com/watch?v=7hxdtpfKBi4",
+        "percent": 100,
+        "hz": 144
+      },
+      {
+        "user": "Gizbro",
+        "link": "https://www.youtube.com/watch?v=7hxdtpfKBi4",
+        "percent": 100,
+        "hz": 144
+      },
+      {
+        "user": "Golden",
+        "link": "https://www.youtube.com/watch?v=7hxdtpfKBi4",
+        "percent": 100,
+        "hz": 144
+      }
+    ],
     "percentToQualify": 66
   },
   "Based Gang (2P)": {
     "verifier": {
-      "verifier": "GiggsRH, Koopazu",
+      "verifier": "GiggsRH",
       "verification": "https://www.youtube.com/watch?v=waS4YTHvG8M"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Koopazu",
+        "link": "https://www.youtube.com/watch?v=waS4YTHvG8M",
+        "percent": 100,
+        "hz": 144
+      }
+    ],
     "percentToQualify": 66
   },
   "Artificial Climb": {
@@ -21097,7 +21192,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://youtu.be/cANTBVB6MbA?si=-P-AZn4UhNUrn_Kq",
         "percent": 100,
         "hz": 240
@@ -21254,7 +21349,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=fOYr-nd6MFA",
         "percent": 100,
         "hz": 240
@@ -21275,7 +21370,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=7bjHSpcJYOk",
         "percent": 100,
         "hz": 144
@@ -21411,7 +21506,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://www.youtube.com/watch?v=vGNxnI9YdbU",
         "percent": 100,
         "hz": 240
@@ -21465,7 +21560,7 @@
     },
     "records": [
       {
-        "user": "Chloe ♡",
+        "user": "⋆♱Chloe♱⋆",
         "link": "https://youtu.be/dBo55ztYODo?si=m5ZjV-746c-dhgEs",
         "percent": 100,
         "hz": 240
@@ -25220,6 +25315,38 @@
     "verifier": {
       "verifier": "MiniShoey",
       "verification": "https://www.youtube.com/watch?v=Rg5j82pr6x4"
+    },
+    "percentToQualify": 66
+  },
+  "invincible area": {
+    "records": [],
+    "verifier": {
+      "verifier": "Beefyikes",
+      "verification": "https://www.youtube.com/watch?v=PRJygoGE8m8"
+    },
+    "percentToQualify": 66
+  },
+  "Ad Aeternum": {
+    "records": [],
+    "verifier": {
+      "verifier": "Technical",
+      "verification": "https://www.youtube.com/watch?v=8ImoyamrTOk"
+    },
+    "percentToQualify": 66
+  },
+  "Lethal Injection": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sensawa",
+      "verification": "https://www.youtube.com/watch?v=oHYgmZOJAq0"
+    },
+    "percentToQualify": 66
+  },
+  "4 Matilda": {
+    "records": [],
+    "verifier": {
+      "verifier": "Jeyzor",
+      "verification": "https://www.youtube.com/watch?v=2pudWuef1VI"
     },
     "percentToQualify": 66
   }
