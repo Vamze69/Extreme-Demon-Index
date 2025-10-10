@@ -4561,7 +4561,7 @@
   },
   "Death Corridor Z": {
     "verifier": {
-      "verifier": "lSunix",
+      "verifier": "Sunix",
       "verification": "https://www.youtube.com/watch?v=9799msdH394"
     },
     "records": [],
@@ -13234,7 +13234,7 @@
   },
   "Vitrilyx": {
     "verifier": {
-      "verifier": "Gecko GD",
+      "verifier": "Gecko",
       "verification": "https://www.youtube.com/watch?v=Kml5oTAr454"
     },
     "records": [],
@@ -25689,6 +25689,102 @@
     "verifier": {
       "verifier": "murderrr",
       "verification": "https://www.youtube.com/watch?v=5yAzJhNlpL0"
+    },
+    "percentToQualify": 66
+  },
+  "SARY NEVER CLEAR (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Glow",
+      "verification": "https://www.youtube.com/watch?v=Hpo77uVq75M"
+    },
+    "percentToQualify": 66
+  },
+  "Make Paul Dance": {
+    "records": [],
+    "verifier": {
+      "verifier": "Airi",
+      "verification": "https://www.youtube.com/watch?v=XQoF35hNKpg"
+    },
+    "percentToQualify": 66
+  },
+  "fladge": {
+    "records": [],
+    "verifier": {
+      "verifier": "CHOOONK",
+      "verification": "https://www.youtube.com/watch?v=bDIK02YDYHs"
+    },
+    "percentToQualify": 66
+  },
+  "Behemoth": {
+    "records": [],
+    "verifier": {
+      "verifier": "TRIXICIDAL",
+      "verification": "https://www.youtube.com/watch?v=r7JHNRJF-sg"
+    },
+    "percentToQualify": 66
+  },
+  "Random Wave Mix plus": {
+    "records": [],
+    "verifier": {
+      "verifier": "Weyolll3",
+      "verification": "https://www.youtube.com/watch?v=LbdCoIgWL9A"
+    },
+    "percentToQualify": 66
+  },
+  "InvisiWave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sunix",
+      "verification": "https://www.youtube.com/watch?v=eA0N8G2WHlg"
+    },
+    "percentToQualify": 66
+  },
+  "Bolivia Wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sid125",
+      "verification": "https://www.youtube.com/watch?v=oYB8NeGPpnc"
+    },
+    "percentToQualify": 66
+  },
+  "Stereo Crazyness": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=Hvjp5jCYio0"
+    },
+    "percentToQualify": 66
+  },
+  "Pale Machine": {
+    "records": [],
+    "verifier": {
+      "verifier": "Nexus",
+      "verification": "https://www.youtube.com/watch?v=B3DgPQgdA1E"
+    },
+    "percentToQualify": 66
+  },
+  "Fight Fire With Fire": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gecko",
+      "verification": "https://www.youtube.com/watch?v=a0lbD-gBvAM"
+    },
+    "percentToQualify": 66
+  },
+  "Northern Impact": {
+    "records": [],
+    "verifier": {
+      "verifier": "Xanii",
+      "verification": "https://www.youtube.com/watch?v=69b5NZoZYbM"
+    },
+    "percentToQualify": 66
+  },
+  "unnamed sphere level": {
+    "records": [],
+    "verifier": {
+      "verifier": "sphericle",
+      "verification": "https://www.youtube.com/watch?v=UReYojAvak8"
     },
     "percentToQualify": 66
   }
