@@ -6814,7 +6814,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  " Final Destination": {
+  "Final Destination": {
     "verifier": {
       "verifier": "telepracity",
       "verification": "https://www.youtube.com/watch?v=q3wiYEyhQQY"
@@ -25792,6 +25792,102 @@
     "verifier": {
       "verifier": "sphericle",
       "verification": "https://www.youtube.com/watch?v=UReYojAvak8"
+    },
+    "percentToQualify": 66
+  },
+  "DISCONNECT": {
+    "records": [],
+    "verifier": {
+      "verifier": "Elinore",
+      "verification": "https://www.youtube.com/watch?v=HxHo-LzwSao"
+    },
+    "percentToQualify": 66
+  },
+  "Every Herr": {
+    "records": [],
+    "verifier": {
+      "verifier": "UzuDen",
+      "verification": "https://www.youtube.com/watch?v=57Vo0qftx5Q"
+    },
+    "percentToQualify": 66
+  },
+  "Drowning": {
+    "records": [],
+    "verifier": {
+      "verifier": "Aberrent",
+      "verification": "https://www.youtube.com/watch?v=GamrxNmj91w"
+    },
+    "percentToQualify": 66
+  },
+  "In The Generator": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gelforce",
+      "verification": "https://www.youtube.com/watch?v=M0kNz36MRnA"
+    },
+    "percentToQualify": 66
+  },
+  "Jard Factory": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gabinq",
+      "verification": "https://www.youtube.com/watch?v=w9wxKoRvUCc"
+    },
+    "percentToQualify": 66
+  },
+  "x steampunk x": {
+    "records": [],
+    "verifier": {
+      "verifier": "snowkeo",
+      "verification": "https://www.youtube.com/watch?v=nlUn_8kWhLQ"
+    },
+    "percentToQualify": 66
+  },
+  "Cursed": {
+    "records": [],
+    "verifier": {
+      "verifier": "Apo",
+      "verification": "https://www.youtube.com/watch?v=Octh48xdzJI"
+    },
+    "percentToQualify": 66
+  },
+  "STARBREAKER": {
+    "records": [],
+    "verifier": {
+      "verifier": "SoggyCat",
+      "verification": "https://www.youtube.com/watch?v=vn6SGssOS94"
+    },
+    "percentToQualify": 66
+  },
+  "Bored Walk": {
+    "records": [],
+    "verifier": {
+      "verifier": "DracoZeon",
+      "verification": "https://www.youtube.com/watch?v=bvQc5-27YYg"
+    },
+    "percentToQualify": 66
+  },
+  "Cybersonic": {
+    "records": [],
+    "verifier": {
+      "verifier": "teraaa",
+      "verification": "https://www.youtube.com/watch?v=NfGt4PvKMxU"
+    },
+    "percentToQualify": 66
+  },
+  "Grand Eclipse": {
+    "records": [],
+    "verifier": {
+      "verifier": "ivyteal",
+      "verification": "https://www.youtube.com/watch?v=JFq_O9d4L3s"
+    },
+    "percentToQualify": 66
+  },
+  "Crack": {
+    "records": [],
+    "verifier": {
+      "verifier": "Peccans",
+      "verification": "https://www.youtube.com/watch?v=kGkrEo4gkT4"
     },
     "percentToQualify": 66
   }
