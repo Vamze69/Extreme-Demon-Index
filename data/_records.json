@@ -10788,7 +10788,14 @@
       "verifier": "DozenthLeaf",
       "verification": "https://www.youtube.com/watch?v=FSNGDwv_8N0"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "[FAITH] puuke",
+        "link": "https://www.youtube.com/watch?v=_nB0Fxds8Jg",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "W9W": {
@@ -12815,6 +12822,12 @@
         "link": "https://www.youtube.com/watch?v=d7nQLdcyN3s",
         "percent": 100,
         "hz": 60
+      },
+      {
+        "user": "[FAITH] puuke",
+        "link": "https://youtu.be/g_uS9yWhjfY?si=39hsERIvbS8hXKkI",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -20060,6 +20073,12 @@
         "link": "https://www.youtube.com/watch?v=lG5KYjDdtkI",
         "percent": 100,
         "hz": 60
+      },
+      {
+        "user": "[FAITH] puuke",
+        "link": "https://www.youtube.com/watch?v=EeBCSrbqtEE",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21107,6 +21126,12 @@
         "link": "https://www.youtube.com/watch?v=1QjOsHA4hWI",
         "percent": 100,
         "hz": 60
+      },
+      {
+        "user": "[FAITH] puuke",
+        "link": "https://youtu.be/-Y9IFkxjSFU?si=Gw_yKWp47cdB8cD9",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
