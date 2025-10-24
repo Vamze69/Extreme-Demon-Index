@@ -3682,7 +3682,14 @@
       "verifier": "VARSE",
       "verification": "https://www.youtube.com/watch?v=VxbsQLnDOA0"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=_DAHJgqNBhI",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 72
   },
   "Alone": {
@@ -3746,7 +3753,14 @@
       "verifier": "Noxiom",
       "verification": "https://www.youtube.com/watch?v=5RBn1nk5wb4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=y_wdJ5Sk9WA",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 67
   },
   "Element 64 GD": {
@@ -3810,7 +3824,14 @@
       "verifier": "skycrab",
       "verification": "https://www.youtube.com/watch?v=l8aBStUgYOs"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=gA8dH5kmDd0",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 67
   },
   "Middle of Nowhere": {
@@ -4090,7 +4111,14 @@
       "verifier": "Helix",
       "verification": "https://www.youtube.com/watch?v=npIZ8TGMDvk"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=5oT2Amh55lU",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 71
   },
   "ATOMIC CANNON": {
@@ -4906,7 +4934,14 @@
       "verifier": "Solus",
       "verification": "https://www.youtube.com/watch?v=RHCCZkf4UFM"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=b1MBpE_O_uw",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 64
   },
   "Sparkling": {
@@ -5313,7 +5348,14 @@
       "verifier": "VaporWubz",
       "verification": "https://www.youtube.com/watch?v=9jkCtNDbDt0"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=wHvl9f1qDbE",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 72
   },
   "WasuDeta": {
@@ -9718,7 +9760,14 @@
       "verifier": "foodynooby",
       "verification": "https://www.youtube.com/watch?v=YIsJeBI2c_c"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=bBHh5zrFVcE",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Charlotte Force": {
@@ -10062,7 +10111,14 @@
       "verifier": "DreamTide",
       "verification": "https://www.youtube.com/watch?v=byjnOPX6s2k"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.twitch.tv/videos/2453085905",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Godzilla": {
@@ -10794,6 +10850,12 @@
         "link": "https://www.youtube.com/watch?v=_nB0Fxds8Jg",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=-n8rBLZB-Ps",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -11243,6 +11305,12 @@
       {
         "user": "onellyn",
         "link": "https://www.youtube.com/watch?v=Zg7vfDNWcAU",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=BBoVmgP93q8",
         "percent": 100,
         "hz": 240
       }
@@ -11710,7 +11778,14 @@
       "verifier": "IcEDCave",
       "verification": "https://www.youtube.com/watch?v=Ba4PkcqiZa4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=1TeVxE40ZrQ",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "CONFORM": {
@@ -11892,6 +11967,12 @@
         "link": "https://youtu.be/de7aUeG8gIY?si=J3vkQ5dwl0IPDjkg",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=C3RRAgpMqZs",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -11933,7 +12014,14 @@
       "verifier": "s3batr0nic",
       "verification": "https://www.youtube.com/watch?v=arG9DaacSLw"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=kTI0hbCwQVQ",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "SEQUENCE": {
@@ -12686,6 +12774,12 @@
         "link": "https://youtu.be/7lFBr6uFknA?si=jxUcEgBLzcFhYMOJ",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=s9Kw2pRTe78",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -12826,6 +12920,12 @@
       {
         "user": "[FAITH] puuke",
         "link": "https://youtu.be/g_uS9yWhjfY?si=39hsERIvbS8hXKkI",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=eeWNQKjJvkk",
         "percent": 100,
         "hz": 240
       }
@@ -13076,7 +13176,14 @@
       "verifier": "swiborg",
       "verification": "https://www.youtube.com/watch?v=bwn9pLDNzGs"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=gK50LUsDUBk",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Cloud Citadel": {
@@ -13172,7 +13279,14 @@
       "verifier": "Moosh",
       "verification": "https://www.youtube.com/watch?v=RS5ZFcuaw3I"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=dDctb3i8gRc",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "ASAP": {
@@ -13492,7 +13606,14 @@
       "verifier": "KrmaL",
       "verification": "https://www.youtube.com/watch?v=wdEuFpV9CXw"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=3xIAicYXk2A",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "WOBBLING MACHINE (2P)": {
@@ -13920,6 +14041,12 @@
         "link": "https://youtu.be/LGge1xaGZ70?si=G6aWk5PXX-zy30Va",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=WO-JVf_g9sY",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -14022,6 +14149,12 @@
         "link": "https://www.youtube.com/watch?v=iFgZuUzIlfU",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=lJ0IWRzL9z4",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -14302,7 +14435,14 @@
       "verifier": "Victurkey",
       "verification": "https://www.youtube.com/watch?v=5Cj1bWRzoFA"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=sVc7GvLPnLY",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Annihilation Nation": {
@@ -14461,7 +14601,14 @@
       "verifier": "chao",
       "verification": "https://www.youtube.com/watch?v=yUigmaPcPUs"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=IHP5sDtTT3o",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Brainrot Circles X": {
@@ -15051,7 +15198,14 @@
       "verifier": "YakobNugget",
       "verification": "https://www.youtube.com/watch?v=u7dBdD531As"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=Fs2s3_B7vQU",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Stressed Out": {
@@ -15059,7 +15213,14 @@
       "verifier": "meph",
       "verification": "https://www.youtube.com/watch?v=V0dzmxhHjuI"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=RsDZqxDBlzs",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "SHATTER": {
@@ -15098,7 +15259,14 @@
       "verifier": "Catliest",
       "verification": "https://www.youtube.com/watch?v=zxomIqWykEQ"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=KN3IYJLrqts",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "PanaSonic": {
@@ -15249,7 +15417,14 @@
       "verifier": "santiachu",
       "verification": "https://www.youtube.com/watch?v=5pKZQFFgDMQ"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=qmz42oH0ObE",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Eyeless": {
@@ -15655,7 +15830,14 @@
       "verifier": "ItzApex",
       "verification": "https://www.youtube.com/watch?v=uMmLZ1BCM6o"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=GpgOnjjzqSM",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "To the Exosphere": {
@@ -15909,6 +16091,12 @@
         "link": "https://youtu.be/ZN0JzzcrLA0?si=0LtYxKRxCuDOsMbX",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=M02Ei6EteNM",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -15989,7 +16177,14 @@
       "verifier": "Artu",
       "verification": "https://www.youtube.com/watch?v=0voiQses3W4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=03vnQ3gOZcE",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Arcane16 (Solo)": {
@@ -16108,7 +16303,14 @@
       "verifier": "crohn44",
       "verification": "https://www.youtube.com/watch?v=IFw94EqMudg"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=4dQfVwwUPcw",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Made from Ash": {
@@ -16546,7 +16748,14 @@
       "verifier": "Zeronium",
       "verification": "https://www.youtube.com/watch?v=6HKERcnzQsU"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=HDDndFug7VM",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "sunburn": {
@@ -16617,7 +16826,14 @@
       "verifier": "Monti241",
       "verification": "https://www.youtube.com/watch?v=tHq68adhnlw"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=oDYJXXXS-ig",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Sky Conflux": {
@@ -16721,7 +16937,14 @@
       "verifier": "LordVadercraft",
       "verification": "https://www.youtube.com/watch?v=BNaixSQPmys"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=bimqhsjCbNI",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "MasmeCrescent": {
@@ -16919,7 +17142,14 @@
       "verifier": "feijoaoa",
       "verification": "https://www.youtube.com/watch?v=UOaGBEbGXwc"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=xI1EbeqlA1Y",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "The Antimatter": {
@@ -17154,7 +17384,14 @@
       "verifier": "schemanick",
       "verification": "https://www.youtube.com/watch?v=cNwM5dUOe-w"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=tybhnD_0Rac",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "cloudscape": {
@@ -17463,7 +17700,14 @@
       "verifier": "Jif",
       "verification": "https://www.youtube.com/watch?v=cRyU4ixc1y4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=hfiodkz0WzY",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "ABSURDIA": {
@@ -17524,6 +17768,12 @@
         "link": "https://youtu.be/nuRW3i9eIA8?si=bS5dUv7TLkzJXQoL",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=3XqSRku1CQs",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -17606,6 +17856,12 @@
       {
         "user": "⋆✮ 𝐿𝑒𝓍𝓎 ✮⋆",
         "link": "https://www.youtube.com/watch?v=1qhwtubN_lQ",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.twitch.tv/videos/2259745870",
         "percent": 100,
         "hz": 240
       }
@@ -18030,6 +18286,12 @@
         "link": "https://youtu.be/vSAQo0WLeA0?si=vO_-6NobIPxSbPnr",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=PRC2Ye046II",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -18109,6 +18371,12 @@
         "link": "https://youtu.be/tQiQgbUDk4o?si=lntYEXA9bPFlx7qM",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=GAruqoEeBTQ",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -18147,6 +18415,12 @@
         "link": "https://youtu.be/MnsIy5vhxHo?si=SDmUZiaHh3VAXaWK",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=uBvyficm6Ho",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -18384,7 +18658,14 @@
       "verifier": "DreamTide",
       "verification": "https://www.youtube.com/watch?v=pSmK6L3b58o"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=KVWKWSO1xDM",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Green World": {
@@ -18466,6 +18747,12 @@
         "link": "https://youtu.be/aef8p3-oUys?si=tyTa9H3bp8w8hV-L",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=VmSYwWy7Y48",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19104,7 +19391,14 @@
       "verifier": "SoulsTRK",
       "verification": "https://www.youtube.com/watch?v=9GrlZLD8wZ0"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=-rTTGjnhdx8",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Celeste": {
@@ -19150,6 +19444,12 @@
         "link": "https://youtu.be/uDsyTl6z3N4?si=7cyQy9mL_wdIwuxB",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=U3oL16wDn0o",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19273,6 +19573,12 @@
         "link": "https://www.youtube.com/watch?v=pIAA4Pa8qaw",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=mmZB-JTGjkw",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19290,7 +19596,14 @@
       "verifier": "TheRealPeng",
       "verification": "https://www.youtube.com/watch?v=duPwSnlqTzk"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=WbaY33dPva0",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Empanadas Fugaces": {
@@ -19354,7 +19667,14 @@
       "verifier": "skzyl",
       "verification": "https://www.youtube.com/watch?v=YMMzsot1w5I"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=IioVup-GV9U",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "SMARTISH MODE": {
@@ -19761,6 +20081,12 @@
         "link": "https://www.youtube.com/watch?v=WIz3aznG5-c",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=1BjzIacM7Kc",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19939,6 +20265,12 @@
         "link": "https://www.youtube.com/watch?v=iYfhA33j1fY",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=2wb_gY6JZ78",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19984,6 +20316,12 @@
         "link": "https://www.youtube.com/watch?v=zs3hSR-IjQg",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=peMkhB2bI14",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -20079,6 +20417,12 @@
         "link": "https://www.youtube.com/watch?v=EeBCSrbqtEE",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=PTmwWdK6RY8",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -20143,7 +20487,14 @@
       "verifier": "Seuniiiiiii",
       "verification": "https://www.youtube.com/watch?v=VNkYNa4W4TE"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=kFifDcuRddw",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Im Leaving": {
@@ -20159,7 +20510,14 @@
       "verifier": "Solus",
       "verification": "https://www.youtube.com/watch?v=xL_0WkFxKeM"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=j1zKk5ov8Vc",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "9blue": {
@@ -20241,6 +20599,12 @@
         "link": "https://youtu.be/Qmb1C2mVuDU?si=2ZMcE4urDAsltNyM",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=J39iRw7OtzA",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -20368,7 +20732,14 @@
       "verifier": "SagerR",
       "verification": "https://www.youtube.com/watch?v=3k9PQwu_BFo"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=bquYd2Qg2Yc",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Weapon of Choice": {
@@ -20442,6 +20813,12 @@
       {
         "user": "abcpro",
         "link": "https://youtu.be/l1WbxtHOPc4?si=87dELpQMm7QX2KVD",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=8Hg0bM-PNkU",
         "percent": 100,
         "hz": 240
       }
@@ -20524,6 +20901,12 @@
         "link": "https://youtu.be/n-_4SGAmWKs?si=JDPL3J5kgwB4-ofi",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=llAuWpzsBdo",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -20604,7 +20987,14 @@
       "verifier": "CatGeo",
       "verification": "https://www.youtube.com/watch?v=rw3afgiDQjw"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=aHwsujm056o",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Devils Disco": {
@@ -20876,7 +21266,14 @@
       "verifier": "Hypno",
       "verification": "https://www.youtube.com/watch?v=XOorv-ZPnh0"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=ZMmv4aXbBek",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Luminescence": {
@@ -20936,6 +21333,12 @@
         "link": "https://www.youtube.com/watch?v=U7Cah-C99uA",
         "percent": 100,
         "hz": 60
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=XugRcab92S0",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21132,6 +21535,12 @@
         "link": "https://youtu.be/-Y9IFkxjSFU?si=Gw_yKWp47cdB8cD9",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=XyMnEqdSRSk",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
