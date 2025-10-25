@@ -2498,7 +2498,14 @@
       "verifier": "nSwish",
       "verification": "https://www.youtube.com/watch?v=enl0GOyskPs"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://youtu.be/nP3sTnQEii8?si=Zt28h6ZV1HNg_NoH",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 73
   },
   "GodZilla Vs KingKong": {
@@ -3688,6 +3695,12 @@
         "link": "https://www.youtube.com/watch?v=_DAHJgqNBhI",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=_7BTmIoq4oo",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 72
@@ -3729,7 +3742,14 @@
       "verifier": "slayerkirb",
       "verification": "https://www.youtube.com/watch?v=n3dIaFHT-fI"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=Z2XMRH7ki7o",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 72
   },
   "ERYX": {
@@ -4115,6 +4135,12 @@
       {
         "user": "Agelio",
         "link": "https://www.youtube.com/watch?v=5oT2Amh55lU",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=0qjFdZhp3yA",
         "percent": 100,
         "hz": 240
       }
@@ -9583,7 +9609,14 @@
       "verifier": "Kapinapi",
       "verification": "https://www.youtube.com/watch?v=ucmMMjeTOjc"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=JcpeTL2I754",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Laser Realm": {
@@ -10122,6 +10155,12 @@
       {
         "user": "Agelio",
         "link": "https://www.twitch.tv/videos/2453085905",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=c-1PxvSgmxs",
         "percent": 100,
         "hz": 240
       }
@@ -11008,7 +11047,14 @@
       "verifier": "BlassCFB",
       "verification": "https://www.youtube.com/watch?v=pQ2PsY1BymE"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=lOZDuqqFMKQ",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Turbulent Valley": {
@@ -11609,7 +11655,14 @@
       "verifier": "TrusTa",
       "verification": "https://www.youtube.com/watch?v=svyOjwLCErg"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=YvaxnzcQrIo",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Sakupen Heaven": {
@@ -12025,6 +12078,12 @@
       {
         "user": "Agelio",
         "link": "https://www.youtube.com/watch?v=kTI0hbCwQVQ",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=lwIXlQOkiMc",
         "percent": 100,
         "hz": 240
       }
@@ -14620,6 +14679,12 @@
         "link": "https://www.youtube.com/watch?v=IHP5sDtTT3o",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=TCc42tZCXK4",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -14693,7 +14758,14 @@
       "verifier": "skzyl",
       "verification": "https://www.youtube.com/watch?v=MQRpK0nKfxc"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=WxBPr_m_4q0",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Death (Sensawa)": {
@@ -15179,7 +15251,14 @@
       "verifier": "Zeronium",
       "verification": "https://www.youtube.com/watch?v=PF53BeI0pIk"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=CrMwYsTTrj4",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "ChopStep": {
@@ -15543,6 +15622,12 @@
       {
         "user": "abcpro",
         "link": "https://youtu.be/Ou4nJ9HmjIM?si=E-maI6JXM0NjTOEO",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=QUMg01tTnto",
         "percent": 100,
         "hz": 240
       }
@@ -18780,6 +18865,12 @@
         "link": "https://www.youtube.com/watch?v=VmSYwWy7Y48",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "kittycatiscute",
+        "link": "https://www.youtube.com/watch?v=DPsMSC8uRMc",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -18882,6 +18973,12 @@
         "link": "https://www.youtube.com/watch?v=lrwuaYYVfdQ",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=rvFEvN6_alM",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19016,7 +19113,14 @@
       "verifier": "Kapinapi",
       "verification": "https://www.youtube.com/watch?v=FZBB1QgDE-Y"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=na-htebrPK8",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "SOMNUS": {
@@ -19522,6 +19626,12 @@
         "link": "https://www.youtube.com/watch?v=5Or_1xoz-yg",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "kittycatiscute",
+        "link": "https://www.youtube.com/watch?v=5_fgvkb46LA",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -20477,6 +20587,12 @@
         "link": "https://www.youtube.com/watch?v=PTmwWdK6RY8",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "kittycatiscute",
+        "link": "https://www.youtube.com/watch?v=USfwR7sBzRI",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -20508,6 +20624,12 @@
         "link": "https://youtu.be/b_-LBQTaOhc?si=fqdD-0ah0QSQbT2F",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=k12MRZQ-HyU",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -20627,7 +20749,14 @@
       "verifier": "Sensawa",
       "verification": "https://www.youtube.com/watch?v=9LF9EhICAwk"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=poGc64nPR8s",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Azurite (Sillow)": {
@@ -20881,6 +21010,12 @@
         "link": "https://www.youtube.com/watch?v=8Hg0bM-PNkU",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=Et_hOv3JQN8",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21110,7 +21245,14 @@
       "verifier": "Eiriley",
       "verification": "https://www.youtube.com/watch?v=N_mYwoJfDYU"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=ro153juLmP0",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "BRAINWASH": {
@@ -21563,6 +21705,12 @@
         "link": "https://www.youtube.com/watch?v=Pfc0Q43iZyw",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=m4tQToOT2ng",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21614,6 +21762,12 @@
         "link": "https://www.youtube.com/watch?v=IwK1zTYUy3Q",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "kittycatiscute",
+        "link": "https://www.youtube.com/watch?v=_kGv4hRqtmA",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -22884,7 +23038,14 @@
     "percentToQualify": 66
   },
   "SHINE": {
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=PDMQjvEoZfs",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "sock",
       "verification": "https://www.youtube.com/watch?v=Wxtm-bchAeA"
@@ -25731,7 +25892,14 @@
     "percentToQualify": 66
   },
   "eclipse (vit12)": {
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=4PTYwtls2p0",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "vit12",
       "verification": "https://www.youtube.com/watch?v=lnXy6-t2Oek"
@@ -25915,7 +26083,14 @@
     "percentToQualify": 66
   },
   "Screaming": {
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=ThApCarAXXg",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "murderrr",
       "verification": "https://www.youtube.com/watch?v=5yAzJhNlpL0"
