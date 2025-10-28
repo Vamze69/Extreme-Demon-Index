@@ -827,7 +827,14 @@
       "verifier": "Pukklez",
       "verification": "https://www.youtube.com/watch?v=IKGk41hSnDo"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Saladishealthy",
+        "link": "https://www.youtube.com/watch?v=90FZPx19qQo",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 78
   },
   "DEATHWISH": {
@@ -18105,7 +18112,14 @@
       "verifier": "DreamZoneGD",
       "verification": "https://www.youtube.com/watch?v=v6v6Qhv1VNM"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=V3UhwwRufKY",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Volume": {
@@ -18763,7 +18777,14 @@
       "verifier": "Jenkins",
       "verification": "https://www.youtube.com/watch?v=Dbl99ctIc_E"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Omipious",
+        "link": "https://www.youtube.com/watch?v=ciZj5i8iwa8",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "straightforward": {
@@ -21299,6 +21320,12 @@
         "link": "https://www.youtube.com/watch?v=k12MRZQ-HyU",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Omipious",
+        "link": "https://www.youtube.com/watch?v=ciZj5i8iwa8",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21674,6 +21701,12 @@
       {
         "user": "maxler",
         "link": "https://www.youtube.com/watch?v=7foPdrvhuPE",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Omipious",
+        "link": "https://www.youtube.com/watch?v=ciZj5i8iwa8",
         "percent": 100,
         "hz": 240
       }
@@ -22409,7 +22442,14 @@
       "verifier": "Shrc",
       "verification": "https://www.youtube.com/watch?v=kbXtNGaobvE"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "maxler",
+        "link": "https://www.youtube.com/watch?v=G0mxWcmL77c",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Lithium Chloride": {
@@ -22558,6 +22598,12 @@
         "link": "https://www.youtube.com/watch?v=G4Y8LaHkbRs",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "Omipious",
+        "link": "https://www.youtube.com/watch?v=ciZj5i8iwa8",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66

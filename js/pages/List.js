@@ -93,25 +93,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        When submitting your record, please ensure that it complies with the following guidelines: (Submission rules from AREDL)
+                        When submitting your record, please ensure that it complies with the following guidelines:
                     </p>
                     <p>
-                        1. Your record must have clicks, COMPLETELY audible throughout the whole level. Not audible sometimes, at the end, or the beginning the whole level. "But what if there was a mistake with the-" We apologize, but we have to be able to hear full audible clicks throughout your video. (Taps, if you're playing on mobile. Same rules apply.)
+                        1. Your recording must have clicks that are clearly audible throughout the entire level (Or at the very least most of it). The clicks must be consistent and fully audible from beginning to end. If there was an issue with the audio, we apologize, but we can only accept records where the clicks (or taps, if you are playing on mobile) are clearly audible for the entire duration of the level. Unless you are able to provide us raw footage, then it will be rejected most likely.
                     </p>
                     <p>
-                        2. Your record must have a cheat indicator on the end screen. If you're playing vanilla GD, or you have a mod menu that does not use a cheat indicator, this is not required. However, you have to put that in your notes, we are not responsible for figuring out which mod menu you used, or if you're playing on vanilla.
+                        2. Your recording must include a cheat indicator on the end screen. If you are playing on vanilla GD or using a mod menu that does not feature a cheat indicator, this requirement does not apply. However, you must specify this in your notes, as we are not responsible for determining which mod menu you used or whether you were playing on vanilla.
                     </p>
                     <p>
-                        3. If you are using an LDM or a bugfix copy of a level, it must either be approved by list staff, or not make a difference without a doubt. Use your best judgement here, if you are uncertain whether or not your bugfix copy/LDM of a level can be accepted, file a support ticket with the level ID. However, if you're absolutely certain that your copy is fine, you don't need to get it approved in order to get your record accepted. If you're unaware of what an "acceptable" copy would be, go ahead and file a support ticket. (We deny copies that either change gameplay of the level, or remove so much detail that it makes the level easier.)
+                        3. If you are using an LDM or a bugfix copy of a level, it must either be approved by list staff or clearly make no difference to the gameplay. Use your best judgment, if you are unsure whether your bugfix copy or LDM is acceptable, please ask staff and include the level ID. If you are completely certain that your copy is acceptable, approval is not required for your record to be accepted. If you are unsure what qualifies as an “acceptable” copy, you should also ask staff. Copies that alter gameplay or remove so much detail that the level becomes easier will be denied.
                     </p>
                     <p>
-                        4. Your record must have an uncut end screen. If your video ends before we see the end screen, and your stats are not visible, it is not an acceptable record.
+                        4. Your recording must include an uncut end screen. If the video ends before the end screen is shown or your stats are not visible, the record will not be accepted.
                     </p>
                     <p>
-                        5. Any levels you beat, you must have raw footage. If the level places in the top 1000 then you must also include split audio tracks, submit along with your original record in a downloadable format such as Google Drive. If it was streamed, a VOD on Twitch or Youtube with chat enabled is also allowed. However, if you have the record on your Pointercrate profile, you may submit that in the additional info instead, and we will accept your record. However, please note that we will not accept records that used Physics Bypass while it was allowed on pointercrate, since Physics Bypass was not ever allowed on the Extreme Demon Index.
+                        5. It is recommended that you keep raw footage of any levels you complete. If the level places within the top 500, raw footage is required and must include split audio tracks. Submit this along with your original record in a downloadable format, such as Google Drive. If the record was streamed, a Twitch or YouTube VOD with chat enabled is also acceptable. Alternatively, if the record is listed on your Pointercrate profile, you may include that link in the additional information section, and your record will be accepted.
                     </p>
                     <p>
-                    6. This should be obvious, but your record may not be completed with any disallowed mods. This information (of what we allow and don't allow) can be found on our website. This rule also applies to having a red/blue cheat indicator, obvious hacked completions, and bots.
+                    6. This should be self-explanatory, but your record must not be completed using any disallowed mods. This rule also applies to records showing a red cheat indicator, clearly hacked completions, or the use of bots.
                     </p>
                 </div>
             </div>
