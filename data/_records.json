@@ -2401,7 +2401,14 @@
       "verifier": "amplitron",
       "verification": "https://www.youtube.com/watch?v=J89j-_l7ezg"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=FWONa2PxcXM",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 65
   },
   "twocu": {
@@ -2509,6 +2516,12 @@
       {
         "user": "maxler",
         "link": "https://youtu.be/nP3sTnQEii8?si=Zt28h6ZV1HNg_NoH",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=Hf4fUbfXGzc",
         "percent": 100,
         "hz": 240
       }
@@ -3640,7 +3653,14 @@
       "verifier": "Comlayze",
       "verification": "https://www.youtube.com/watch?v=fYcBtp4X8GA"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=kXwd596gsZM",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 71
   },
   "Abattoir Possible": {
@@ -4159,7 +4179,14 @@
       "verifier": "Zeronium",
       "verification": "https://www.youtube.com/watch?v=VZS5Yn9Y-OI"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=lU3k9z3URpk",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 72
   },
   "Fusion Z (Old)": {
@@ -4431,7 +4458,14 @@
       "verifier": "Gablor",
       "verification": "https://www.youtube.com/watch?v=wxWBFaZYHPM"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=il6RNNfeJb0",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "SINFUL": {
@@ -5387,6 +5421,12 @@
         "link": "https://www.youtube.com/watch?v=wHvl9f1qDbE",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=LTVxH1qq7tA",
+        "percent": 100,
+        "hz": 180
       }
     ],
     "percentToQualify": 72
@@ -5859,7 +5899,14 @@
       "verifier": "Sunix",
       "verification": "https://www.youtube.com/watch?v=GpXTwPgweAk"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=8M-c4QlNnI4",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Infinite Iniquity": {
@@ -8649,6 +8696,12 @@
         "link": "https://www.youtube.com/watch?v=vYoYwJLSnJs",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=gnx1Q7CnAE4",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -9936,7 +9989,14 @@
       "verifier": "Enzeux",
       "verification": "https://www.youtube.com/watch?v=velFCMli60A"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=xhGop3chu2c",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Starlight Starride": {
@@ -11486,6 +11546,12 @@
         "link": "https://www.youtube.com/watch?v=M5uM_7fW8zE",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=tWHyC6szfUE",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -12999,6 +13065,12 @@
         "link": "https://www.youtube.com/watch?v=tEoRkRB3CIo",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=05JNphfbhxA",
+        "percent": 100,
+        "hz": 180
       }
     ],
     "percentToQualify": 66
@@ -13159,6 +13231,12 @@
         "link": "https://www.youtube.com/watch?v=RH5jiTX2qYU",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=Dsak_lLMmGU",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -13528,6 +13606,12 @@
         "link": "https://www.youtube.com/watch?v=Qex-rlUvCDk",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=cW-Pc24dMHs",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -14315,6 +14399,12 @@
         "link": "https://www.youtube.com/watch?v=xCU_Ogq5sEI",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=9b-P25wpEf4",
+        "percent": 100,
+        "hz": 180
       }
     ],
     "percentToQualify": 66
@@ -14360,6 +14450,12 @@
       {
         "user": "abcpro",
         "link": "https://www.youtube.com/watch?v=oPthM22VMMc",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=RgqiUxDayo8",
         "percent": 100,
         "hz": 240
       }
@@ -15557,6 +15653,12 @@
         "link": "https://www.youtube.com/watch?v=J4m9WaUeOyk",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=9PBiSmeWrio",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -15595,6 +15697,12 @@
         "link": "https://youtu.be/YjZn-N-GP2s?si=wRktw2IFN7tp6zSs",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=r2jyMBNL-oU",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "percentToQualify": 66
@@ -15891,6 +15999,12 @@
         "link": "https://www.youtube.com/watch?v=QUMg01tTnto",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=q04Rsj2sy7Q",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -16375,7 +16489,14 @@
       "verifier": "Slashomi",
       "verification": "https://www.youtube.com/watch?v=Cshu9iKFFsM"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=lPj_p5UbrL0",
+        "percent": 100,
+        "hz": 60
+      }
+    ],
     "percentToQualify": 66
   },
   "BiPolar (Solo)": {
@@ -16391,7 +16512,14 @@
       "verifier": "Bleamer",
       "verification": "https://www.youtube.com/watch?v=zjuHxSal16g"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=SaARQkZwb4M",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Endurance": {
@@ -17585,7 +17713,14 @@
       "verifier": "iIiViRuZiIi",
       "verification": "https://www.youtube.com/watch?v=C-2PUPD6Rw4"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=wx_DI5qm5e8",
+        "percent": 100,
+        "hz": 180
+      }
+    ],
     "percentToQualify": 66
   },
   "Colour Demon": {
@@ -18873,6 +19008,12 @@
         "link": "https://www.youtube.com/watch?v=dUotA2rIyr8",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=WgNYiRs76HA",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -19020,6 +19161,12 @@
         "link": "https://www.youtube.com/watch?v=fSxoyq6KW3o",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=-oNMU6pPmN0",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19131,6 +19278,12 @@
         "link": "https://youtu.be/iq1P1oiIZ18?si=eL_7qDZrpojzp6hj",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=kelPJAAB5nE",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "percentToQualify": 66
@@ -19198,6 +19351,12 @@
         "link": "https://www.youtube.com/watch?v=MVT7cHkWEMI",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=I2y9eagUqyo",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -19376,6 +19535,12 @@
         "link": "https://www.youtube.com/watch?v=-zBYdPb5WRo",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=H58EobeJOTk",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -19625,6 +19790,12 @@
         "link": "https://youtu.be/cLMOD4E6vWU?si=H5EnRtcbSPfJiJEm",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=cJSAx0nZ5bo",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "percentToQualify": 66
@@ -20130,6 +20301,12 @@
         "link": "https://www.youtube.com/watch?v=3EwiQzNykGo",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=OKFRaWDdd5U",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -20590,6 +20767,12 @@
         "link": "https://www.youtube.com/watch?v=giAcyD9uVRQ",
         "percent": 100,
         "hz": 60
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=RBayS6K0CZM",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -20885,6 +21068,12 @@
         "link": "https://www.youtube.com/watch?v=NzvlQohGxYQ",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=jPy-nIjNEDw",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -21283,6 +21472,12 @@
         "link": "https://www.youtube.com/watch?v=e7DOrnuk8YI",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=SWZEhw4bWQc",
+        "percent": 100,
+        "hz": 180
       }
     ],
     "percentToQualify": 66
@@ -21515,6 +21710,12 @@
         "link": "https://www.youtube.com/watch?v=SfgXSCbDUZY",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=dpkGjyBrqKM",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -21773,6 +21974,12 @@
         "link": "https://youtu.be/08ZCZkJoE3U?si=MSt8N78taCEmNxMT",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=ajsS2AaK9wo",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21848,6 +22055,12 @@
         "link": "https://www.youtube.com/watch?v=cKIYCK-Ioso",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=XEflr1I16b0",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -22346,6 +22559,12 @@
         "link": "https://www.youtube.com/watch?v=0erSdLjVMm4",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=qpvRtpZhRAw",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -22604,6 +22823,12 @@
         "link": "https://www.youtube.com/watch?v=ciZj5i8iwa8",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TheDerpSharkYT",
+        "link": "https://www.youtube.com/watch?v=0bWSV8wm2bs",
+        "percent": 100,
+        "hz": 60
       }
     ],
     "percentToQualify": 66
