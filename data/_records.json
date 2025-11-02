@@ -8092,6 +8092,12 @@
         "link": "https://www.youtube.com/watch?v=ZKJ2ThNiq9g",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Agelio",
+        "link": "https://www.youtube.com/watch?v=HRjhrMpygl8",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21160,7 +21166,14 @@
       "verifier": "MWZN",
       "verification": "https://www.youtube.com/watch?v=2gc435GUn4I"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Vickyy",
+        "link": "https://www.youtube.com/watch?v=ps0DH1AZ1k4",
+        "percent": 100,
+        "hz": 60
+      }
+    ],
     "percentToQualify": 66
   },
   "XxXxXxXxXxX": {
@@ -25944,7 +25957,14 @@
     "percentToQualify": 66
   },
   "Shitty Thinking Space II": {
-    "records": [],
+    "records": [
+      {
+        "user": "Meatballmoose",
+        "link": "https://www.youtube.com/watch?v=ZRc0WYQBbyo",
+        "percent": 100,
+        "hz": 144
+      }
+    ],
     "verifier": {
       "verifier": "Xcl0624i",
       "verification": "https://www.youtube.com/watch?v=LZh-G9pLiqQ"
@@ -27426,6 +27446,86 @@
     "verifier": {
       "verifier": "JustANacGod",
       "verification": "https://www.youtube.com/watch?v=zrfzFgSdS3A"
+    },
+    "percentToQualify": 66
+  },
+  "LightSpeed": {
+    "records": [],
+    "verifier": {
+      "verifier": "TheRandomStuff",
+      "verification": "https://www.youtube.com/watch?v=yp8qKZRG56o"
+    },
+    "percentToQualify": 66
+  },
+  "burday723": {
+    "records": [],
+    "verifier": {
+      "verifier": "majin",
+      "verification": "https://www.youtube.com/watch?v=usGsvUvAKRE"
+    },
+    "percentToQualify": 66
+  },
+  "Absolute Anarchy": {
+    "records": [],
+    "verifier": {
+      "verifier": "GS12",
+      "verification": "https://www.youtube.com/watch?v=tF8k3xL10-M"
+    },
+    "percentToQualify": 66
+  },
+  "This has a hard wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "SkeletalVirus",
+      "verification": "https://www.youtube.com/watch?v=EDnS9DDQauY"
+    },
+    "percentToQualify": 66
+  },
+  "CLOWNS": {
+    "records": [],
+    "verifier": {
+      "verifier": "Teno",
+      "verification": "https://www.youtube.com/watch?v=vn50YpOln9k"
+    },
+    "percentToQualify": 66
+  },
+  "Cassette": {
+    "records": [],
+    "verifier": {
+      "verifier": "ZazaGD",
+      "verification": "https://www.youtube.com/watch?v=U8BVk3oGYkc"
+    },
+    "percentToQualify": 66
+  },
+  "SHIN SWAY": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dragoon",
+      "verification": "https://www.youtube.com/watch?v=RE5HEiWiRwQ"
+    },
+    "percentToQualify": 66
+  },
+  "Restricted Sector": {
+    "records": [],
+    "verifier": {
+      "verifier": "ZorpikGMD",
+      "verification": "https://www.youtube.com/watch?v=GrGQShjn3OM"
+    },
+    "percentToQualify": 66
+  },
+  "Fun Friday": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zeronium",
+      "verification": "https://www.youtube.com/watch?v=tEQbQgQ8WZ4"
+    },
+    "percentToQualify": 66
+  },
+  "Old Hell Factory": {
+    "records": [],
+    "verifier": {
+      "verifier": "RpgRaketti",
+      "verification": "https://www.youtube.com/watch?v=TSLb-DC5eFU"
     },
     "percentToQualify": 66
   }
