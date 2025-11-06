@@ -8310,7 +8310,7 @@
   },
   "Killbot DX": {
     "verifier": {
-      "verifier": "SpeedyMuffin",
+      "verifier": "MoriartyTheCat",
       "verification": "https://www.youtube.com/watch?v=I80UQWXcc9c"
     },
     "records": [],
@@ -22855,6 +22855,12 @@
         "link": "https://www.youtube.com/watch?v=0bWSV8wm2bs",
         "percent": 100,
         "hz": 60
+      },
+      {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=UPFzOJSvPKc",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -23751,7 +23757,7 @@
     "records": [],
     "verifier": {
       "verifier": "zAlonc",
-      "verification": "https://www.youtube.com/watch?v=polPKtfxR7g"
+      "verification": "https://www.youtube.com/watch?v=uKUbzE_FcrM"
     },
     "percentToQualify": 66
   },
