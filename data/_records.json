@@ -13625,6 +13625,12 @@
         "link": "https://www.youtube.com/watch?v=cW-Pc24dMHs",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Rory",
+        "link": "https://www.youtube.com/watch?v=K8oBHanBQCw",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -18517,6 +18523,12 @@
         "link": "https://www.youtube.com/watch?v=I9bptynQXB8",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Rory",
+        "link": "https://www.youtube.com/watch?v=-nfNVfAifHQ",
+        "percent": 100,
+        "hz": 180
       }
     ],
     "percentToQualify": 66
@@ -19320,6 +19332,12 @@
         "link": "https://www.youtube.com/watch?v=93725MN2mCc",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Rory",
+        "link": "https://www.youtube.com/watch?v=ybSlD_S7160",
+        "percent": 100,
+        "hz": 180
       }
     ],
     "percentToQualify": 66
@@ -21309,7 +21327,7 @@
   },
   "INCANDESCENT (Rae3)": {
     "verifier": {
-      "verifier": "Rae",
+      "verifier": "Raezori",
       "verification": "https://www.youtube.com/watch?v=Kev-ITexzrM"
     },
     "records": [],
@@ -22855,6 +22873,12 @@
         "link": "https://www.youtube.com/watch?v=0bWSV8wm2bs",
         "percent": 100,
         "hz": 60
+      },
+      {
+        "user": "Rory",
+        "link": "https://www.youtube.com/watch?v=xKJCAj7On9A",
+        "percent": 100,
+        "hz": 180
       }
     ],
     "percentToQualify": 66
@@ -23830,7 +23854,7 @@
   "Blinding Lights": {
     "records": [],
     "verifier": {
-      "verifier": "Rae",
+      "verifier": "Raezori",
       "verification": "https://www.youtube.com/watch?v=9SbjIRLvbkw"
     },
     "percentToQualify": 66
@@ -25506,7 +25530,14 @@
     "percentToQualify": 66
   },
   "Shitty Sakupen Circles": {
-    "records": [],
+    "records": [
+      {
+        "user": "Rory",
+        "link": "https://www.youtube.com/watch?v=VASNbrqwrxw",
+        "percent": 100,
+        "hz": 180
+      }
+    ],
     "verifier": {
       "verifier": "bnuuy",
       "verification": "https://www.youtube.com/watch?v=TvxNRQkKqk8"
@@ -27682,6 +27713,134 @@
     "verifier": {
       "verifier": "xJuan22",
       "verification": "https://www.youtube.com/watch?v=Bfa1qvdDLpM"
+    },
+    "percentToQualify": 66
+  },
+  "Sakupen Feet": {
+    "records": [],
+    "verifier": {
+      "verifier": "Nensa",
+      "verification": "https://youtu.be/w_SfQ5RJTj4?si=COYBPwIsubawgyVP"
+    },
+    "percentToQualify": 66
+  },
+  "Perfect Chaos": {
+    "records": [],
+    "verifier": {
+      "verifier": "Surrounded",
+      "verification": "https://www.youtube.com/watch?v=NNFY4UTrtBk"
+    },
+    "percentToQualify": 66
+  },
+  "Delete File": {
+    "records": [],
+    "verifier": {
+      "verifier": "Limestone",
+      "verification": "https://www.youtube.com/watch?v=qetKJEEhMlo"
+    },
+    "percentToQualify": 66
+  },
+  "RINJELLO": {
+    "records": [],
+    "verifier": {
+      "verifier": "Nexel",
+      "verification": "https://www.youtube.com/watch?v=nsoKJo6mVPc"
+    },
+    "percentToQualify": 66
+  },
+  "Evil Whatsapp mod": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kaza",
+      "verification": "https://www.youtube.com/watch?v=Ed96zOfks_Y"
+    },
+    "percentToQualify": 66
+  },
+  "Quantum Processing (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "WatchPiggy",
+      "verification": "https://www.youtube.com/watch?v=Qvkz3G2r26s"
+    },
+    "percentToQualify": 66
+  },
+  "Vice": {
+    "records": [],
+    "verifier": {
+      "verifier": "Aivan",
+      "verification": "https://www.youtube.com/watch?v=HpnY6hwycH4"
+    },
+    "percentToQualify": 66
+  },
+  "Preface": {
+    "records": [],
+    "verifier": {
+      "verifier": "DMjumper",
+      "verification": "https://www.youtube.com/watch?v=bBkHzzBrFLg"
+    },
+    "percentToQualify": 66
+  },
+  "Crimson Slate": {
+    "records": [],
+    "verifier": {
+      "verifier": "Draconyx",
+      "verification": "https://www.youtube.com/watch?v=bD4CjwzqaLA"
+    },
+    "percentToQualify": 66
+  },
+  "Crimson Slate (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Raezori",
+      "verification": "https://www.youtube.com/watch?v=6Rkp7O5spIM"
+    },
+    "percentToQualify": 66
+  },
+  "SS Ytogurgt": {
+    "records": [],
+    "verifier": {
+      "verifier": "ButterFish",
+      "verification": "https://www.youtube.com/watch?v=U8rDVVGer3k"
+    },
+    "percentToQualify": 66
+  },
+  "Mystical Corridor": {
+    "records": [],
+    "verifier": {
+      "verifier": "RealFlame",
+      "verification": "https://www.youtube.com/watch?v=ufg3vniyxGE"
+    },
+    "percentToQualify": 66
+  },
+  "Cyclone Wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ipodnicks",
+      "verification": "https://www.youtube.com/watch?v=oW01NHisuFM"
+    },
+    "percentToQualify": 66
+  },
+  "Midnight Brainwave": {
+    "records": [],
+    "verifier": {
+      "verifier": "DMjumper",
+      "verification": "https://www.youtube.com/watch?v=4VghHy9Pdpk"
+    },
+    "percentToQualify": 66
+  },
+  "Fallen Horizon": {
+    "records": [],
+    "verifier": {
+      "verifier": "Vortrox",
+      "verification": "https://www.youtube.com/watch?v=ngNeuF2u9so"
+    },
+    "percentToQualify": 66
+  },
+  "Never Be Alone": {
+    "records": [],
+    "verifier": {
+      "verifier": "zwatefau",
+      "verification": "https://www.youtube.com/watch?v=zUXRFRIlxsE"
     },
     "percentToQualify": 66
   }
