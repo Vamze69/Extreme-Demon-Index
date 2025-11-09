@@ -126,3 +126,32 @@
 .page-list .meta .editors li a:hover {
     text-decoration: underline;
 }
+.page-list .level-container .level .video-controls {
+    margin: 10px 0;
+    display: flex;
+    gap: 10px;
+}
+
+.page-list .level-container .level .video-btn {
+    background: #333;
+    color: #fff;
+    border: 1px solid #555;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.2s;
+    font-family: "Lexend Deca", sans-serif;  /* Match the site's font */
+    font-weight: 500;  /* Match the weight of other labels */
+    text-transform: uppercase;  /* Make it all caps like other labels */
+    font-size: 14px;  /* Adjust size to match other labels */
+    letter-spacing: 0.5px;  /* Add slight spacing like other labels */
+}
+
+.page-list .level-container .level .video-btn:hover {
+    background: #444;
+}
+
+.page-list .level-container .level .video-btn.active {
+    background: var(--accent, #bb00ff);
+    border-color: var(--accent, #bb00ff);
+}

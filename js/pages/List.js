@@ -39,6 +39,10 @@ export default {
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
+                    <div class="video-controls">
+    <button class="video-btn" :class="{ active: !toggledShowcase }" @click="toggledShowcase = false">Verification</button>
+    <button class="video-btn" :class="{ active: toggledShowcase }" @click="toggledShowcase = true">Showcase</button>
+</div>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
@@ -127,7 +131,8 @@ export default {
         roleIconMap,
         store,
         isLoading: false,
-        hasLoaded: false
+        hasLoaded: false,
+        toggledShowcase: false
     }),
     computed: {
         level() {
