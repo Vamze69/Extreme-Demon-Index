@@ -1,0 +1,14 @@
+/* Add to an existing stylesheet */
+#levelSearch {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: none;
+  background: #252525; /* match dark sidebar */
+  color: #fff;
+  font-weight: 600;
+  box-sizing: border-box;
+  outline: none;
+}
+#levelSearch::placeholder { color: #bfbfbf; font-weight: 500; }
+#levelSearch:focus { box-shadow: 0 0 0 2px rgba(200, 80, 255, 0.12); }

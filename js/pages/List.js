@@ -22,14 +22,27 @@ export default {
         </main>
         <main v-else class="page-list">
             <div class="list-container">
+                <!-- SEARCH BOX: inserted here (above the levels list) -->
+                <div id="level-search-wrapper" style="padding:16px;">
+                  <input
+                    id="levelSearch"
+                    v-model="searchQuery"
+                    type="search"
+                    placeholder="Search levels..."
+                    aria-label="Search levels"
+                    autocomplete="off"
+                    style="width:100%; padding:10px 12px; border-radius:8px; border:none; background:#2a2a2a; color:#fff; box-sizing:border-box;"
+                  />
+                </div>
+
                 <table class="list" v-if="list">
-                    <tr v-for="(level, i) in demonList">
+                    <tr v-for="(entry, i) in filteredDemonList" :key="entry.index">
                         <td class="rank">
-                            <p class="type-label-lg">#{{ i + 1 }}</p>
+                            <p class="type-label-lg">#{{ entry.index + 1 }}</p>
                         </td>
-                        <td class="level" :class="{ 'active': selected == i, 'error': !level }">
-                            <button @click="fetchLvl(i); selected = i">
-                                <span class="type-label-lg">{{ \`\${level}\` || \`Error\` }}</span>
+                        <td class="level" :class="{ 'active': selected == entry.index, 'error': !entry.name }">
+                            <button @click="fetchLvl(entry.index); selected = entry.index">
+                                <span class="type-label-lg">{{ entry.name || 'Error' }}</span>
                             </button>
                         </td>
                     </tr>
@@ -57,7 +70,7 @@ export default {
                     </ul>
                     <h2>Records</h2>
                     <table class="records">
-                        <tr v-for="record in recordList[level.name].records" class="record">
+                        <tr v-for="(record, idx) in (recordList[level.name] ? recordList[level.name].records : [])" :key="idx" class="record">
                             <td class="percent">
                                 <p>{{ record.percent }}%</p>
                             </td>
@@ -65,7 +78,7 @@ export default {
                                 <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
                             </td>
                             <td class="mobile">
-                                <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
+                                <img v-if="record.mobile" :src="'/assets/phone-landscape' + (store.dark ? '-dark' : '') + '.svg'" alt="Mobile">
                             </td>
                             <td class="hz">
                                 <p>{{ record.hz }}Hz</p>
@@ -88,8 +101,8 @@ export default {
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
-                            <li v-for="editor in editors">
-                                <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
+                            <li v-for="(editor, eidx) in editors" :key="eidx">
+                                <img :src="'/assets/' + roleIconMap[editor.role] + (store.dark ? '-dark' : '') + '.svg'" :alt="editor.role">
                                 <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
                                 <p v-else>{{ editor.name }}</p>
                             </li>
@@ -100,22 +113,22 @@ export default {
                         When submitting your record, please ensure that it complies with the following guidelines:
                     </p>
                     <p>
-                        1. Your recording must have clicks that are clearly audible throughout the entire level (Or at the very least most of it). The clicks must be consistent and fully audible from beginning to end. If there was an issue with the audio, we apologize, but we can only accept records where the clicks (or taps, if you are playing on mobile) are clearly audible for the entire duration of the level. Unless you are able to provide us raw footage, then it will be rejected most likely.
+                        1. Your recording must have clicks that are clearly audible throughout the entire level (Or at the very least most of it). The clicks must be consistent and fully audible [...]
                     </p>
                     <p>
-                        2. Your recording must include a cheat indicator on the end screen. If you are playing on vanilla GD or using a mod menu that does not feature a cheat indicator, this requirement does not apply. However, you must specify this in your notes, as we are not responsible for determining which mod menu you used or whether you were playing on vanilla.
+                        2. Your recording must include a cheat indicator on the end screen. If you are playing on vanilla GD or using a mod menu that does not feature a cheat indicator, this requ[...]
                     </p>
                     <p>
-                        3. If you are using an LDM or a bugfix copy of a level, it must either be approved by list staff or clearly make no difference to the gameplay. Use your best judgment, if you are unsure whether your bugfix copy or LDM is acceptable, please ask staff and include the level ID. If you are completely certain that your copy is acceptable, approval is not required for your record to be accepted. If you are unsure what qualifies as an “acceptable” copy, you should also ask staff. Copies that alter gameplay or remove so much detail that the level becomes easier will be denied.
+                        3. If you are using an LDM or a bugfix copy of a level, it must either be approved by list staff or clearly make no difference to the gameplay. Use your best judgment, if [...]
                     </p>
                     <p>
                         4. Your recording must include an uncut end screen. If the video ends before the end screen is shown or your stats are not visible, the record will not be accepted.
                     </p>
                     <p>
-                        5. It is recommended that you keep raw footage of any levels you complete. If the level places within the top 500, raw footage is required and must include split audio tracks. Submit this along with your original record in a downloadable format, such as Google Drive. If the record was streamed, a Twitch or YouTube VOD with chat enabled is also acceptable. Alternatively, if the record is listed on your Pointercrate profile, you may include that link in the additional information section, and your record will be accepted.
+                        5. It is recommended that you keep raw footage of any levels you complete. If the level places within the top 500, raw footage is required and must include split audio tra[...]
                     </p>
                     <p>
-                    6. This should be self-explanatory, but your record must not be completed using any disallowed mods. This rule also applies to records showing a red cheat indicator, clearly hacked completions, or the use of bots.
+                    6. This should be self-explanatory, but your record must not be completed using any disallowed mods. This rule also applies to records showing a red cheat indicator, clearly h[...]
                     </p>
                 </div>
             </div>
@@ -132,18 +145,19 @@ export default {
         store,
         isLoading: false,
         hasLoaded: false,
-        toggledShowcase: false
+        toggledShowcase: false,
+        searchQuery: ''   // <-- ADDED here
     }),
     computed: {
         level() {
             if (!this.hasLoaded) {
                 return [];
             }
-            return this.listLevel[0]
+            return this.listLevel ? this.listLevel[0] : [];
         },
         video() {
-            if (!this.level.showcase) {
-                return embed(this.level.verification);
+            if (!this.level || !this.level.showcase) {
+                return embed(this.level ? this.level.verification : '');
             }
 
             return embed(
@@ -154,6 +168,17 @@ export default {
         },
         list() {
             return this.demonList
+        },
+        // --- NEW computed for filtering the left list while preserving original index ---
+        filteredDemonList() {
+            const q = (this.searchQuery || '').toLowerCase().trim();
+            // map to objects that include original index
+            const mapped = this.demonList.map((name, idx) => ({ name, index: idx }));
+            if (!q) return mapped;
+            return mapped.filter(entry => {
+                if (!entry.name) return false;
+                return entry.name.toLowerCase().includes(q);
+            });
         },
         records() {
             return this.recordList

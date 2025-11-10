@@ -169,3 +169,52 @@ export async function fetchLeaderboard() {
     // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
 }
+// --- sidebar level search/filter ---
+// Append at the bottom of js/content.js. If your List page is a Vue component,
+// ensure this runs after the List page mounts. You can wrap this in a Vue
+// mounted() hook if needed.
+(function () {
+  const searchInput = document.getElementById('levelSearch');
+  if (!searchInput) return;
+
+  // Replace these selectors with the real container and item selectors used in your List.js
+  // e.g. const listContainer = document.querySelector('.list__left .levels');
+  const listContainer = document.querySelector('#sidebar-level-list') || document.querySelector('.left-list') || document.querySelector('.list__left');
+  if (!listContainer) return;
+
+  // Debounce helper
+  function debounce(fn, wait) {
+    let t;
+    return function (...args) {
+      clearTimeout(t);
+      t = setTimeout(() => fn.apply(this, args), wait);
+    };
+  }
+
+  function normalize(str) {
+    return (str || '').toString().toLowerCase();
+  }
+
+  function filterList(q) {
+    const query = normalize(q).trim();
+    // Adjust '.level-item' to match actual items (li, a, div)
+    const items = listContainer.querySelectorAll('.level-item, li, a, .level');
+
+    items.forEach(item => {
+      // Prefer data-title / data-id if you set them when rendering the list
+      const title = normalize(item.getAttribute('data-title') || item.textContent);
+      const id = normalize(item.getAttribute('data-id') || '');
+      const isIdQuery = /^\d+$/.test(query);
+      let matches = false;
+
+      if (query === '') matches = true;
+      else if (title.includes(query)) matches = true;
+      else if (id && id.includes(query)) matches = true;
+
+      item.style.display = matches ? '' : 'none';
+    });
+  }
+
+  const onInput = debounce((e) => filterList(e.target.value), 150);
+  searchInput.addEventListener('input', onInput);
+})();
