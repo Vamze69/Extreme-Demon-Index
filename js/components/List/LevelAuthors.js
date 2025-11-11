@@ -44,7 +44,8 @@ export default {
                     <span>{{ verifier }}</span>
                 </p>
             </template>
-            <div class="type-title-sm">Publisher</div>
+
+            <div class="type-title-sm">{{ publisherLabel }}</div>
             <p class="type-body">
                 <span>{{ author }}</span>
             </p>
@@ -54,6 +55,10 @@ export default {
     computed: {
         selfVerified() {
             return this.author === this.verifier && this.creators.length === 0;
+        },
+        publisherLabel() {
+            const active = (localStorage.getItem('edi_active_list') || 'classic');
+            return active === 'upcoming' ? 'World record' : 'Publisher';
         },
     },
 };

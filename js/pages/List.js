@@ -24,6 +24,29 @@ export default {
             <div class="list-container">
                 <!-- SEARCH BOX: inserted here (above the levels list) -->
                 <div id="level-search-wrapper" style="padding:16px;">
+                  <!-- Toggle buttons: Classic / Upcoming -->
+                  <div class="edi-list-toggle" style="display:flex; gap:8px; margin-bottom:8px;">
+                    <button
+                      class="nav__tab"
+                      :class="{ active: activeList === 'classic' }"
+                      type="button"
+                      id="edi-btn-classic"
+                      @click="setActiveList('classic')"
+                    >
+                      Classic list
+                    </button>
+
+                    <button
+                      class="nav__tab"
+                      :class="{ active: activeList === 'upcoming' }"
+                      type="button"
+                      id="edi-btn-upcoming"
+                      @click="setActiveList('upcoming')"
+                    >
+                      Upcoming list
+                    </button>
+                  </div>
+
                   <input
                     id="levelSearch"
                     v-model="searchQuery"
@@ -36,11 +59,12 @@ export default {
                 </div>
 
                 <table class="list" v-if="list">
-                    <tr v-for="(entry, i) in filteredDemonList" :key="entry.index">
+                    <tr v-for="(entry, i) in filteredDemonList" :key="entry.index" :class="{ benchmark: entry.isBenchmark }">
                         <td class="rank">
-                            <p class="type-label-lg">#{{ entry.index + 1 }}</p>
+                            <p class="type-label-lg" v-if="!entry.isBenchmark">#{{ entry.displayIndex }}</p>
+                            <p class="type-label-md" v-else style="margin-left:8px;">-</p>
                         </td>
-                        <td class="level" :class="{ 'active': selected == entry.index, 'error': !entry.name }">
+                        <td class="level" :class="{ 'active': selected == entry.index, 'error': !entry.name, 'benchmark-level': entry.isBenchmark }">
                             <button @click="fetchLvl(entry.index); selected = entry.index">
                                 <span class="type-label-lg">{{ entry.name || 'Error' }}</span>
                             </button>
@@ -58,9 +82,13 @@ export default {
 </div>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
-                        <li>
+                        <li v-if="activeList === 'classic'">
                             <div class="type-title-sm">Points when completed</div>
                             <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
+                        </li>
+                        <li v-else>
+                            <div class="type-title-sm">Status</div>
+                            <p>{{ statusText }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
@@ -68,8 +96,10 @@ export default {
                         </li>
                         <li>
                     </ul>
-                    <h2>Records</h2>
-                    <table class="records">
+
+                    <!-- Records: only show for classic list -->
+                    <h2 v-if="activeList === 'classic'">Records</h2>
+                    <table class="records" v-if="activeList === 'classic'">
                         <tr v-for="(record, idx) in (recordList[level.name] ? recordList[level.name].records : [])" :key="idx" class="record">
                             <td class="percent">
                                 <p>{{ record.percent }}%</p>
@@ -149,6 +179,10 @@ export default {
         searchQuery: ''   // <-- ADDED here
     }),
     computed: {
+        activeList() {
+            // read from localStorage so the template can show which is active
+            return localStorage.getItem('edi_active_list') || 'classic';
+        },
         level() {
             if (!this.hasLoaded) {
                 return [];
@@ -169,19 +203,88 @@ export default {
         list() {
             return this.demonList
         },
-        // --- NEW computed for filtering the left list while preserving original index ---
+        // --- NEW computed for filtering the left list while preserving original index and supporting 'benchmark' items ---
         filteredDemonList() {
             const q = (this.searchQuery || '').toLowerCase().trim();
-            // map to objects that include original index
-            const mapped = this.demonList.map((name, idx) => ({ name, index: idx }));
-            if (!q) return mapped;
-            return mapped.filter(entry => {
+            const items = this.demonList.map((name, idx) => {
+                const isBench = typeof name === 'string' && name.trim().startsWith('-');
+                // normalize display name (strip leading '- ' if benchmark)
+                const displayName = isBench ? name.trim().replace(/^-\s*/, '') : name;
+                return { name: displayName, index: idx, isBenchmark: isBench };
+            });
+
+            // compute displayIndex (rank only for non-benchmark entries)
+            let rank = 0;
+            const withDisplay = items.map(item => {
+                if (!item.isBenchmark) {
+                    rank += 1;
+                    return { ...item, displayIndex: rank };
+                }
+                return { ...item, displayIndex: null };
+            });
+
+            // apply search filter
+            if (!q) return withDisplay;
+            return withDisplay.filter(entry => {
                 if (!entry.name) return false;
                 return entry.name.toLowerCase().includes(q);
             });
         },
         records() {
             return this.recordList
+        },
+statusText() {
+    if (!this.level) return '';
+    const rl = this.recordList && this.recordList[this.level.name] ? this.recordList[this.level.name] : null;
+
+    // helper to interpret explicit override values
+    const interpretExplicit = (val) => {
+        if (val === undefined || val === null) return null;
+        // boolean: true => open, false => closed
+        if (typeof val === 'boolean') return val ? 'open' : 'closed';
+        if (typeof val === 'string') {
+            const s = val.trim();
+            if (!s) return null;
+            const lower = s.toLowerCase();
+            if (lower === 'open' || lower === 'closed') return lower;
+            // for any other string, return the string as-is so we can display it verbatim
+            return s;
+        }
+        return null;
+    };
+
+    // priority: explicit level field > explicit record entry field
+    const levelExplicit = interpretExplicit(this.level.openVerification ?? this.level.verificationOpen ?? this.level.status);
+    const recordExplicit = rl ? interpretExplicit(rl.openVerification ?? rl.verificationOpen ?? rl.status) : null;
+
+    // If record or level explicitly requests a custom string (not 'open'/'closed'), display it (capitalized)
+    const formatDisplay = (s) => {
+        if (!s) return '';
+        // If s is exactly 'open' or 'closed', map to the friendly messages below.
+        const lower = s.toLowerCase();
+        if (lower === 'open') return 'Open verification';
+        if (lower === 'closed') return 'Closed verification';
+        // Otherwise capitalize the first letter and leave the rest as-is
+        return s.charAt(0).toUpperCase() + s.slice(1);
+    };
+
+    // If either explicit value is a non-empty string other than 'open'/'closed', display it
+    if (typeof levelExplicit === 'string' && !['open','closed'].includes(levelExplicit.toLowerCase())) {
+        return formatDisplay(levelExplicit);
+    }
+    if (typeof recordExplicit === 'string' && !['open','closed'].includes(recordExplicit.toLowerCase())) {
+        return formatDisplay(recordExplicit);
+    }
+
+    // If explicit open/closed provided, honor it
+    if (levelExplicit === 'open' || recordExplicit === 'open') return 'Open verification';
+    if (levelExplicit === 'closed' || recordExplicit === 'closed') return 'Closed verification';
+
+    // fallback: existing automatic detection (if verification exists => closed)
+    const verifiedByRecords = rl && rl.verifier && (rl.verifier.verification || rl.verifier.verifier);
+    const levelHasVerification = !!(this.level.verification || (this.level.verifier && (this.level.verifier.verification || this.level.verifier.verifier)));
+    const closed = !!(verifiedByRecords || levelHasVerification);
+    return closed ? 'Closed verification' : 'Open verification';
         }
     },
     async mounted() {
@@ -207,6 +310,12 @@ export default {
     methods: {
         embed,
         score,
+        setActiveList(key) {
+            if (key !== 'classic' && key !== 'upcoming') return;
+            localStorage.setItem('edi_active_list', key);
+            // reload to let fetchList pick up the new file (simple and robust)
+            location.reload();
+        },
         async fetchLvl(i)
         {
             if (this.isLoading) {

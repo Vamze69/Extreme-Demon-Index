@@ -5,34 +5,37 @@ import { round, score } from './score.js';
  */
 const dir = '/data';
 
+/**
+ * Active list handling:
+ * - 'classic' -> _list.json (default)
+ * - 'upcoming' -> _upcoming.json
+ */
+const LIST_KEYS = {
+    classic: '_list.json',
+    upcoming: '_upcoming.json',
+};
+
+function getActiveListKey() {
+    // default to 'classic' if nothing set
+    return localStorage.getItem('edi_active_list') || 'classic';
+}
+function setActiveListKey(key) {
+    if (!LIST_KEYS[key]) return;
+    localStorage.setItem('edi_active_list', key);
+}
+
+/**
+ * Fetch list (respects active list selection saved in localStorage)
+ */
 export async function fetchList() {
-    const listResult = await fetch(`${dir}/_list.json`);
+    const activeKey = getActiveListKey();
+    const file = LIST_KEYS[activeKey] ?? LIST_KEYS.classic;
+    const listResult = await fetch(`${dir}/${file}`);
     try {
         const list = await listResult.json();
-        // return await Promise.all(
-        //     list.map(async (path, rank) => {
-        //         const levelResult = await fetch(`${dir}/${path}.json`);
-        //         try {
-        //             const level = await levelResult.json();
-        //             return [
-        //                 {
-        //                     ...level,
-        //                     path,
-        //                     records: level.records.sort(
-        //                         (a, b) => b.percent - a.percent,
-        //                     ),
-        //                },
-        //                 null,
-        //             ];
-        //         } catch {
-        //             console.error(`Failed to load level #${rank + 1} ${path}.`);
-        //             return [null, path];
-        //         }
-        //     }),
-        // );
         return list;
     } catch {
-        console.error(`Failed to load list.`);
+        console.error(`Failed to load list (${file}).`);
         return null;
     }
 }
@@ -84,8 +87,19 @@ export async function fetchRecords() {
     }
 }
 export async function fetchLeaderboard() {
+    // Always use the CLASSIC list for the leaderboard (single shared leaderboard).
+    // This ensures there is only one leaderboard, even when the user is viewing "upcoming".
     const recordList = await fetchRecords();
-    const list = await fetchList();
+
+    // load classic list explicitly
+    const classicResult = await fetch(`${dir}/${LIST_KEYS.classic}`);
+    let list;
+    try {
+        list = await classicResult.json();
+    } catch (e) {
+        console.error('Failed to load classic list for leaderboard.', e);
+        return [[], [`Failed to load classic list for leaderboard.`]];
+    }
 
     const scoreMap = {};
     const errs = [];
@@ -97,10 +111,6 @@ export async function fetchLeaderboard() {
             records: []
 
         }
-            // if (err) {
-            //     errs.push(err);
-            //     return;
-            // }
             // Verification
             const verifier = Object.keys(scoreMap).find(
                 (u) => u.toLowerCase() === recordList[level].verifier.verifier.toLowerCase(),
@@ -149,7 +159,7 @@ export async function fetchLeaderboard() {
                     });
                 }
             });
-        
+
     });
 
     // Wrap in extra Object containing the user and total score

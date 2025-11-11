@@ -180,3 +180,92 @@
 #levelSearch:focus {
   box-shadow: 0 0 0 2px rgba(200, 80, 255, 0.12);
 }
+
+/* --- Toggle buttons (Classic / Upcoming) styling to match site buttons --- */
+.page-list .edi-list-toggle .nav__tab {
+  background: #333;
+  color: #fff;
+  border: 1px solid #555;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: all 0.2s;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.page-list .edi-list-toggle .nav__tab:hover {
+  background: #444;
+}
+
+.page-list .edi-list-toggle .nav__tab.active {
+  background: var(--accent, #bb00ff);
+  border-color: var(--accent, #bb00ff);
+  color: #fff;
+}
+
+/* --- Benchmark row: make text match normal level text and keep behavior identical --- */
+
+/* Ensure benchmark row buttons use the exact same base styling as regular level rows */
+.page-list .list tr.benchmark td.level button {
+  /* reuse the same properties as .page-list .list .level button */
+  background-color: var(--color-background);
+  color: var(--color-on-background);
+  border: none;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  text-align: start;
+  word-break: normal;
+  overflow-wrap: anywhere;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Keep hover/active behavior identical to other rows */
+.page-list .list tr.benchmark td.level button:hover {
+  background-color: var(--color-background-hover);
+  color: var(--color-on-background-hover);
+}
+.page-list .list tr.benchmark td.level.active button,
+.page-list .list tr.benchmark td.level button.active {
+  background-color: var(--color-primary);
+  color: var(--color-on-primary);
+}
+
+/* Use the same label typography as other levels (inherit font-size so sizing matches exactly) */
+.page-list .list tr.benchmark td.level button .type-label-lg {
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 500;
+  font-size: inherit;
+  line-height: 1.2;
+  color: inherit;
+  display: inline-block;
+  margin-left: 8px; /* subtle visual indent without changing font/padding */
+}
+
+/* Make the dash rank visually match the regular rank spacing */
+.page-list .list tr.benchmark td.rank p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+  color: inherit;
+}
+
+/* Keep benchmark row vertical alignment consistent */
+.page-list .list tr.benchmark td.level {
+  vertical-align: middle;
+}
+
+/* Compatibility override: ensure no leftover rules shrink the label */
+.page-list .list td.level.benchmark-level button .type-label-lg {
+  font-size: inherit !important;
+  padding-left: 0 !important;
+}
