@@ -9945,6 +9945,12 @@
         "link": "https://www.youtube.com/watch?v=Var8wxDi0KM",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=nVXPO592Vkg",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -13627,6 +13633,12 @@
       {
         "user": "Rory",
         "link": "https://www.youtube.com/watch?v=K8oBHanBQCw",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=9nXHO5jM4S8",
         "percent": 100,
         "hz": 240
       }
@@ -18295,6 +18307,12 @@
         "link": "https://www.youtube.com/watch?v=j0NrqjzIS_c",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=7whTX4R17Ls",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -18440,6 +18458,12 @@
         "link": "https://www.youtube.com/watch?v=y79808M_uLI",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=PIu4mK3yiJM",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19234,6 +19258,12 @@
       {
         "user": "TheDerpSharkYT",
         "link": "https://www.youtube.com/watch?v=-oNMU6pPmN0",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=49W28qgPYho",
         "percent": 100,
         "hz": 240
       }
@@ -20860,6 +20890,12 @@
         "link": "https://www.youtube.com/watch?v=RBayS6K0CZM",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=xonXiK2mERQ",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21446,6 +21482,12 @@
         "link": "https://www.youtube.com/watch?v=Gz9PMkKVuWM",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=W-W5kZw8qRc",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -22186,6 +22228,12 @@
         "link": "https://www.youtube.com/watch?v=XEflr1I16b0",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=cBNYH-C3_zk",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -27929,7 +27977,14 @@
     "percentToQualify": 66
   },
   "Fallen Horizon": {
-    "records": [],
+    "records": [
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=iCyLGhtXIps",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "Vortrox",
       "verification": "https://www.youtube.com/watch?v=ngNeuF2u9so"
@@ -27941,6 +27996,14 @@
     "verifier": {
       "verifier": "zwatefau",
       "verification": "https://www.youtube.com/watch?v=zUXRFRIlxsE"
+    },
+    "percentToQualify": 66
+  },
+  "Loops of Fury": {
+    "records": [],
+    "verifier": {
+      "verifier": "Cork",
+      "verification": "https://www.youtube.com/watch?v=9HBG3i5zbw8"
     },
     "percentToQualify": 66
   }
