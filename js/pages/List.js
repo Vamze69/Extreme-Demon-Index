@@ -203,14 +203,20 @@ export default {
         list() {
             return this.demonList
         },
-        // --- NEW computed for filtering the left list while preserving original index and supporting 'benchmark' items ---
+
+        // --- UPDATED computed for filtering the left list while preserving original index and supporting 'benchmark' items ---
+        // Special-case: exclude the literal "-critical error-" (case-insensitive) from being treated as a benchmark.
         filteredDemonList() {
             const q = (this.searchQuery || '').toLowerCase().trim();
+
             const items = this.demonList.map((name, idx) => {
-                const isBench = typeof name === 'string' && name.trim().startsWith('-');
+                // normalize and decide benchmark status with a special-case exclusion for "-critical error-"
+                const raw = (typeof name === 'string') ? name.trim() : name;
+                // treat as benchmark when it starts with '-' EXCEPT for the literal "-critical error-" (case-insensitive)
+                const isBench = (typeof raw === 'string' && raw.startsWith('-') && raw.toLowerCase() !== '-critical error-');
                 // normalize display name (strip leading '- ' if benchmark)
-                const displayName = isBench ? name.trim().replace(/^-\s*/, '') : name;
-                return { name: displayName, index: idx, isBenchmark: isBench };
+                const displayName = isBench ? raw.replace(/^-\s*/, '') : raw;
+                return { name: displayName, index: idx, isBenchmark: isBench, rawName: raw };
             });
 
             // compute displayIndex (rank only for non-benchmark entries)
@@ -230,6 +236,7 @@ export default {
                 return entry.name.toLowerCase().includes(q);
             });
         },
+
         records() {
             return this.recordList
         },

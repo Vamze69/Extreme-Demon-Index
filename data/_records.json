@@ -7642,7 +7642,7 @@
   },
   "Aliakmon": {
     "verifier": {
-      "verifier": "Tabbi4k",
+      "verifier": "Tabbi",
       "verification": "https://www.youtube.com/watch?v=X3yzBSUcC_o"
     },
     "records": [],
@@ -18877,6 +18877,12 @@
         "link": "https://www.youtube.com/watch?v=2TG_NnFlPWk",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=LUzvjqfaBDI",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19009,6 +19015,12 @@
       {
         "user": "Omipious",
         "link": "https://www.youtube.com/watch?v=ciZj5i8iwa8",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=K8fBf1KCX4c",
         "percent": 100,
         "hz": 240
       }
@@ -21712,6 +21724,12 @@
       {
         "user": "Agelio",
         "link": "https://www.youtube.com/watch?v=kFifDcuRddw",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=7xSqx7baT-8",
         "percent": 100,
         "hz": 240
       }
@@ -28004,6 +28022,134 @@
     "verifier": {
       "verifier": "Cork",
       "verification": "https://www.youtube.com/watch?v=9HBG3i5zbw8"
+    },
+    "percentToQualify": 66
+  },
+  "Twilight chaos": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zenta",
+      "verification": "https://www.youtube.com/watch?v=0xaPMJu15Z0"
+    },
+    "percentToQualify": 66
+  },
+  "Shaii": {
+    "records": [],
+    "verifier": {
+      "verifier": "Johnfree",
+      "verification": "https://www.youtube.com/watch?v=1CuvoOSQfQ4"
+    },
+    "percentToQualify": 66
+  },
+  "Acheront": {
+    "records": [],
+    "verifier": {
+      "verifier": "Vlubbher",
+      "verification": "https://youtu.be/bXLrgwmdDQs?si=ErK2UAhs78C216o3"
+    },
+    "percentToQualify": 66
+  },
+  "Thunder": {
+    "records": [],
+    "verifier": {
+      "verifier": "jonjon",
+      "verification": "https://www.youtube.com/watch?v=tjQH8J_Teko"
+    },
+    "percentToQualify": 66
+  },
+  "downpour": {
+    "records": [],
+    "verifier": {
+      "verifier": "Brumik",
+      "verification": "https://www.youtube.com/watch?v=8RmYV6a0HS0"
+    },
+    "percentToQualify": 66
+  },
+  "Opalescent": {
+    "records": [],
+    "verifier": {
+      "verifier": "LuckyL4",
+      "verification": "https://www.youtube.com/watch?v=YzTrwuyW3JQ"
+    },
+    "percentToQualify": 66
+  },
+  "THE MOONLIT ROSE": {
+    "records": [],
+    "verifier": {
+      "verifier": "Pinkleton",
+      "verification": "https://www.youtube.com/watch?v=WxKUt5Fkat8"
+    },
+    "percentToQualify": 66
+  },
+  "Crackerjam": {
+    "records": [],
+    "verifier": {
+      "verifier": "zamos",
+      "verification": "https://www.youtube.com/watch?v=w8JvglSl8Wk"
+    },
+    "percentToQualify": 66
+  },
+  "Cold Weather": {
+    "records": [],
+    "verifier": {
+      "verifier": "maxler",
+      "verification": "https://www.youtube.com/watch?v=ejyO17sSicg&t"
+    },
+    "percentToQualify": 66
+  },
+  "uhm": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sneze",
+      "verification": "https://www.youtube.com/watch?v=oC42W7ykOjI"
+    },
+    "percentToQualify": 66
+  },
+  "IH8": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dorami",
+      "verification": "https://www.youtube.com/watch?v=6VbY20T0D7Q"
+    },
+    "percentToQualify": 66
+  },
+  "Profanity": {
+    "records": [],
+    "verifier": {
+      "verifier": "JannisTE",
+      "verification": "https://www.youtube.com/watch?v=6w4pRdlJjWQ"
+    },
+    "percentToQualify": 66
+  },
+  "August Finale": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gokill",
+      "verification": "https://www.youtube.com/watch?v=EscRc1a8LxQ"
+    },
+    "percentToQualify": 66
+  },
+  "MASKED": {
+    "records": [],
+    "verifier": {
+      "verifier": "Medaides",
+      "verification": "https://youtu.be/u0WrEXb-HTQ?si=LkE7cijFoxVHcv1W"
+    },
+    "percentToQualify": 66
+  },
+  "Natural Chromatic": {
+    "records": [],
+    "verifier": {
+      "verifier": "syrette",
+      "verification": "https://www.youtube.com/watch?v=_cYbDmlgjaY"
+    },
+    "percentToQualify": 66
+  },
+  "ReallyDeadlyClubStep": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tucosifo",
+      "verification": "https://www.youtube.com/watch?v=fx_nUrDFWhA"
     },
     "percentToQualify": 66
   }
